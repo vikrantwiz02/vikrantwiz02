@@ -32,79 +32,90 @@
 <!-- Animated Wave -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=38BC71&height=120&section=header"/>
 
-<!-- NEW MODERN ABOUT ME SECTION -->
+<!-- COMPLETELY NEW ABOUT ME SECTION - HEXAGON DESIGN -->
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px" height="50px">
-  About Me
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=38BC71&height=50&section=header&text=ABOUT%20ME&fontSize=30&fontColor=ffffff&animation=fadeIn" width="100%" />
 </h1>
 
 <div align="center">
-  <img align="right" height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
-  
-  <p align="left" style="margin-right: 500px;">
-    <img src="https://img.shields.io/badge/-Location:-38BC71?style=flat-square" /> IIITDM Jabalpur, India<br><br>
-    <img src="https://img.shields.io/badge/-Mission:-38BC71?style=flat-square" /> Building tech that saves lives<br><br>
-    <img src="https://img.shields.io/badge/-Specialization:-38BC71?style=flat-square" /> HealthTech, GovTech, Emergency Systems<br><br>
-    <img src="https://img.shields.io/badge/-Focus:-38BC71?style=flat-square" /> Security-first development approach
-  </p>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500px" style="border-radius: 10px; border: 2px solid #38BC71;" />
 </div>
 
 <br>
 
+<!-- Hexagon Grid Layout -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=38BC71&height=2&section=header" width="100%"/>
+  <table border="0" cellspacing="0" cellpadding="0">
+    <tr>
+      <td>
+        <div align="center">
+          <img src="https://img.shields.io/badge/-%F0%9F%8C%8D%20LOCATION-38BC71?style=for-the-badge&logoColor=white" />
+          <h3>IIITDM Jabalpur, India</h3>
+        </div>
+      </td>
+      <td>
+        <div align="center">
+          <img src="https://img.shields.io/badge/-%F0%9F%9A%80%20MISSION-38BC71?style=for-the-badge&logoColor=white" />
+          <h3>Building tech that saves lives</h3>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <div align="center">
+          <img src="https://img.shields.io/badge/-%F0%9F%92%BC%20SPECIALIZATION-38BC71?style=for-the-badge&logoColor=white" />
+          <h3>HealthTech, GovTech, Emergency Systems</h3>
+        </div>
+      </td>
+      <td>
+        <div align="center">
+          <img src="https://img.shields.io/badge/-%F0%9F%94%92%20FOCUS-38BC71?style=for-the-badge&logoColor=white" />
+          <h3>Security-first development approach</h3>
+        </div>
+      </td>
+    </tr>
+  </table>
 </div>
 
+<br>
+
+<!-- About Me Box -->
 <div align="center">
-  <table border="0" align="center">
-    <tr border="0">
-      <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=vikrantwiz02&repo=Saviour2.O&theme=vue-dark&hide_border=true&bg_color=0d1117&title_color=38BC71&icon_color=38BC71" />
-      </td>
-      <td width="50%" align="center">
-        <h3>💡 About Me</h3>
-        <p align="center">
-          I'm the developer who stays up late fixing security vulnerabilities others don't see. My code doesn't just run—it protects. When disaster strikes, my applications respond. When systems fail, my backup protocols activate. I build digital safety nets for the real world.
-        </p>
-        <p align="center">
-          By day: Student and developer.<br>
-          By night: Ethical hacker and problem solver.
+  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/-%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB%20WHO%20AM%20I%3F-38BC71?style=for-the-badge&logoColor=white" />
+        <p align="center" style="font-size: 16px; padding: 10px 20px;">
+          I'm the developer who stays up late fixing security vulnerabilities others don't see. My code doesn't just run—it protects. When disaster strikes, my applications respond. When systems fail, my backup protocols activate. I build digital safety nets for the real world. By day: Student and developer. By night: Ethical hacker and problem solver.
         </p>
       </td>
     </tr>
   </table>
 </div>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=38BC71&height=2&section=header" width="100%"/>
-</div>
+<br>
 
+<!-- Fun Facts -->
 <div align="center">
-  <table border="0" align="center">
-    <tr border="0">
+  <img src="https://img.shields.io/badge/-%E2%9A%A1%20FUN%20FACTS-38BC71?style=for-the-badge&logoColor=white" />
+  
+  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+    <tr>
       <td width="50%" align="center">
-        <h3>⚡ Fun Facts</h3>
-        <p align="center">
-          🧩 I can solve a Rubik's cube in under 2 minutes and apply the same algorithmic thinking to crack complex coding problems!
-        </p>
-        <p align="center">
-          🚨 Once built an emergency alert system that helped evacuate 200+ people during a flash flood simulation.
-        </p>
+        <p>🧩 I can solve a Rubik's cube in under 2 minutes and apply the same algorithmic thinking to crack complex coding problems!</p>
       </td>
       <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=vikrantwiz02&repo=iiitdmj-website&theme=vue-dark&hide_border=true&bg_color=0d1117&title_color=38BC71&icon_color=38BC71" />
+        <p>🚨 Once built an emergency alert system that helped evacuate 200+ people during a flash flood simulation.</p>
       </td>
     </tr>
   </table>
 </div>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=38BC71&height=2&section=header" width="100%"/>
-</div>
+<br>
 
+<!-- Security Focus Banner -->
 <div align="center">
-  <h3>🔐 Security-First Developer</h3>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=38BC71&center=true&vCenter=true&width=435&lines=Building+tech+that+saves+lives;Security+vulnerabilities+hunter;Emergency+systems+developer;Ethical+hacker" alt="Security-First Developer" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0d1117&height=80&section=header&text=Security-First%20Developer&fontSize=30&fontColor=38BC71&animation=twinkling&fontAlignY=50" width="100%" />
 </div>
 
 <!-- Tech Stack Section -->
