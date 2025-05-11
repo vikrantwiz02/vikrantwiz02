@@ -153,16 +153,16 @@
         <td width="50%">
           <h3 align="center">IIITDMJ Unofficial Site</h3>
           <div align="center">
-            <a href="#" target="_blank"><img src="https://dummyimage.com/600x300/38BC71/ffffff&text=IIITDMJ+Unofficial+Site" width="400" alt="IIITDMJ Unofficial Site"/></a>
+            <a href="https://iiitdmj-ten.vercel.app/" target="_blank"><img src="https://dummyimage.com/600x300/38BC71/ffffff&text=IIITDMJ+Unofficial+Site" width="400" alt="IIITDMJ Unofficial Site"/></a>
             <p>
-              <a href="#" target="_blank">
+              <a href="https://github.com/vikrantwiz02/iiitdmj-website" target="_blank">
                 <img src="https://img.shields.io/badge/Code-View%20Code-informational?style=for-the-badge&logo=github&logoColor=white&color=38BC71" alt="View Code" />
               </a>
-              <a href="#" target="_blank">
+              <a href="https://iiitdmj-ten.vercel.app/" target="_blank">
                 <img src="https://img.shields.io/badge/Demo-Live%20Demo-informational?style=for-the-badge&logo=vercel&logoColor=white&color=38BC71" alt="Live Demo" />
               </a>
             </p>
-            <p><strong>React, Node, MongoDB</strong> - A secure platform for reporting and addressing workplace harassment issues.</p>
+            <p><strong>React, Node, MongoDB</strong> - A fully fuctional dynamic site</p>
           </div>
         </td>
       </tr>
