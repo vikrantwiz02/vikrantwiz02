@@ -32,35 +32,42 @@
 <!-- Animated Wave -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=38BC71&height=120&section=header"/>
 
-<!-- About Me Section - Terminal Style -->
-<h2 align="center">👨‍💻 $ whoami</h2>
+<!-- About Me Section - Timeline Style -->
+<h2 align="center">👨‍💻 About Me</h2>
+
 <div align="center">
   <img align="right" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" />
-  <div align="left" style="display: inline-block; text-align: left; margin-right: 20px; max-width: 500px; background-color: #0d1117; padding: 20px; border-radius: 10px; border: 1px solid #30363d;">
-    <p>
-      <span style="color: #38BC71;">vikrant@dev</span>:<span style="color: #3b8eea;">~</span>$ ./about_me.sh
-    </p>
-    <p>
-      <span style="color: #38BC71;">▶</span> Location: IIITDM Jabalpur, India <br>
-      <span style="color: #38BC71;">▶</span> Mission: Building tech that saves lives <br>
-      <span style="color: #38BC71;">▶</span> Specialization: HealthTech, GovTech, Emergency Systems <br>
-      <span style="color: #38BC71;">▶</span> Focus: Security-first development approach
-    </p>
-    <p>
-      <span style="color: #38BC71;">vikrant@dev</span>:<span style="color: #3b8eea;">~</span>$ cat personality.txt
-    </p>
-    <p>
-      I'm the developer who stays up late fixing security vulnerabilities others don't see. My code doesn't just run—it protects. When disaster strikes, my applications respond. When systems fail, my backup protocols activate. I build digital safety nets for the real world. By day: Student and developer. By night: Ethical hacker and problem solver.
-    </p>
-    <p>
-      <span style="color: #38BC71;">vikrant@dev</span>:<span style="color: #3b8eea;">~</span>$ ./fun_fact.sh
-    </p>
-    <p>
-      <span style="color: #ffff00;">⚡</span> I can solve a Rubik's cube in under 2 minutes and apply the same algorithmic thinking to crack complex coding problems! <span style="color: #ffff00;">⚡</span> Once built an emergency alert system that helped evacuate 200+ people during a flash flood simulation.
-    </p>
-    <p>
-      <span style="color: #38BC71;">vikrant@dev</span>:<span style="color: #3b8eea;">~</span>$ █
-    </p>
+  
+  <div align="left" style="display: inline-block; max-width: 500px;">
+    <div style="border-left: 2px solid #38BC71; padding-left: 20px; margin-left: 10px;">
+      <div style="position: relative; margin-bottom: 20px;">
+        <div style="position: absolute; width: 10px; height: 10px; background-color: #38BC71; border-radius: 50%; left: -26px; top: 6px;"></div>
+        <h3 style="margin: 0; color: #38BC71;">Profile</h3>
+        <p>
+          <b>🌍 Location:</b> IIITDM Jabalpur, India<br>
+          <b>🚀 Mission:</b> Building tech that saves lives<br>
+          <b>💼 Specialization:</b> HealthTech, GovTech, Emergency Systems<br>
+          <b>🔒 Focus:</b> Security-first development approach
+        </p>
+      </div>
+      
+      <div style="position: relative; margin-bottom: 20px;">
+        <div style="position: absolute; width: 10px; height: 10px; background-color: #38BC71; border-radius: 50%; left: -26px; top: 6px;"></div>
+        <h3 style="margin: 0; color: #38BC71;">About</h3>
+        <p>
+          I'm the developer who stays up late fixing security vulnerabilities others don't see. My code doesn't just run—it protects. When disaster strikes, my applications respond. When systems fail, my backup protocols activate. I build digital safety nets for the real world. By day: Student and developer. By night: Ethical hacker and problem solver.
+        </p>
+      </div>
+      
+      <div style="position: relative;">
+        <div style="position: absolute; width: 10px; height: 10px; background-color: #38BC71; border-radius: 50%; left: -26px; top: 6px;"></div>
+        <h3 style="margin: 0; color: #38BC71;">Fun Facts</h3>
+        <p>
+          ⚡ I can solve a Rubik's cube in under 2 minutes and apply the same algorithmic thinking to crack complex coding problems!<br>
+          ⚡ Once built an emergency alert system that helped evacuate 200+ people during a flash flood simulation.
+        </p>
+      </div>
+    </div>
   </div>
 </div>
 
