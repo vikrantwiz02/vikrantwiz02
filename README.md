@@ -95,24 +95,6 @@
 
 <br>
 
-<!-- Fun Facts -->
-<div align="center">
-  <img src="https://img.shields.io/badge/-%E2%9A%A1%20FUN%20FACTS-38BC71?style=for-the-badge&logoColor=white" />
-  
-  <table width="100%" border="0" cellspacing="0" cellpadding="0">
-    <tr>
-      <td width="50%" align="center">
-        <p>🧩 I can solve a Rubik's cube in under 2 minutes and apply the same algorithmic thinking to crack complex coding problems!</p>
-      </td>
-      <td width="50%" align="center">
-        <p>🚨 Once built an emergency alert system that helped evacuate 200+ people during a flash flood simulation.</p>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<br>
-
 <!-- Security Focus Banner -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=soft&color=0d1117&height=80&section=header&text=Security-First%20Developer&fontSize=30&fontColor=38BC71&animation=twinkling&fontAlignY=50" width="100%" />
