@@ -138,12 +138,12 @@
         <td width="50%">
           <h3 align="center">Saviour</h3>
           <div align="center">
-            <a href="https://github.com/vikrantwiz02/Saviour2.O" target="_blank"><img src="https://dummyimage.com/600x300/38BC71/ffffff&text=Saviour+App" width="400" alt="Saviour Project"/></a>
+            <a href="https://saviour-ten.vercel.app/" target="_blank"><img src="https://dummyimage.com/600x300/38BC71/ffffff&text=Saviour+App" width="400" alt="Saviour Project"/></a>
             <p>
-              <a href="https://saviour-ten.vercel.app/" target="_blank">
+              <a href="https://github.com/vikrantwiz02/Saviour2.O" target="_blank">
                 <img src="https://img.shields.io/badge/Code-View%20Code-informational?style=for-the-badge&logo=github&logoColor=white&color=38BC71" alt="View Code" />
               </a>
-              <a href="#" target="_blank">
+              <a href="https://saviour-ten.vercel.app/" target="_blank">
                 <img src="https://img.shields.io/badge/Demo-Live%20Demo-informational?style=for-the-badge&logo=vercel&logoColor=white&color=38BC71" alt="Live Demo" />
               </a>
             </p>
