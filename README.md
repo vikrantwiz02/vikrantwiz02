@@ -68,7 +68,7 @@
           mentor(&peers);
       }
   }
-`</div>``<!-- Tech Stack Section -->``<h2 align="center">🛠️ Tech Stack</h2>``<div align="center">
+</div><!-- Tech Stack Section --><h2 align="center">🛠️ Tech Stack</h2><div align="center">
   <h3>Languages</h3>
   <p>
     <a href="#"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/></a>
@@ -78,7 +78,7 @@
     <a href="#"><img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" alt="Solidity"/></a>
     <a href="#"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/></a>
     <a href="#"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/></a>
-  </p>``  <h3>Frontend</h3>
+  </p>  <h3>Frontend</h3>
   <p>
     <a href="#"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/></a>
     <a href="#"><img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/></a>
@@ -86,7 +86,7 @@
     <a href="#"><img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native"/></a>
     <a href="#"><img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="Redux"/></a>
     <a href="#"><img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" alt="Material UI"/></a>
-  </p>``  <h3>Backend</h3>
+  </p>  <h3>Backend</h3>
   <p>
     <a href="#"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/></a>
     <a href="#"><img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/></a>
@@ -94,7 +94,7 @@
     <a href="#"><img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/></a>
     <a href="#"><img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/></a>
     <a href="#"><img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL"/></a>
-  </p>``  <h3>DevOps & Tools</h3>
+  </p>  <h3>DevOps & Tools</h3>
   <p>
     <a href="#"><img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/></a>
     <a href="#"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/></a>
@@ -103,7 +103,7 @@
     <a href="#"><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="Postman"/></a>
     <a href="#"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/></a>
   </p>
-</div>``<!-- Skills Section with Progress Bars -->``<h2 align="center">📊 Skills</h2>``<div align="center">
+</div><!-- Skills Section with Progress Bars --><h2 align="center">📊 Skills</h2>``<div align="center">
   <table>
     <tr>
       <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="20"/> React.js</td>
@@ -142,7 +142,7 @@
       </td>
     </tr>
   </table>
-</div>``<!-- Projects Section with Cards -->``<h2 align="center">🚀 Projects</h2>``<div align="center">
+</div><!-- Projects Section with Cards --><h2 align="center">🚀 Projects</h2><div align="center">
   <details open>
     <summary><b>Featured Projects</b></summary>
     <br>
@@ -212,7 +212,7 @@
         </td>
       </tr>
     </table>
-  </details>``  <details>
+  </details>  <details>
     <summary><b>More Projects</b></summary>
     <br>
     <table>
@@ -234,7 +234,7 @@
       </tr>
     </table>
   </details>
-</div>``<!-- Certifications Section -->``<h2 align="center">🏆 Certifications</h2>``<div align="center">
+</div><!-- Certifications Section --><h2 align="center">🏆 Certifications</h2><div align="center">
   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
     <img src="https://img.shields.io/badge/Google%20Cybersecurity-Certificate-38BC71?style=for-the-badge&logo=google&logoColor=white" alt="Google Cybersecurity Certificate"/>
     <img src="https://img.shields.io/badge/EC--Council-Mobile%20Ethical%20Hacking-38BC71?style=for-the-badge&logo=hackaday&logoColor=white" alt="EC-Council Mobile Ethical Hacking"/>
@@ -245,20 +245,8 @@
     <img src="https://img.shields.io/badge/KPMG-Data%20Analytics%20Virtual%20Internship-38BC71?style=for-the-badge&logo=kpmg&logoColor=white" alt="KPMG Data Analytics"/>
     <img src="https://img.shields.io/badge/Goldman%20Sachs-Engineering%20Virtual%20Program-38BC71?style=for-the-badge&logo=goldman-sachs&logoColor=white" alt="Goldman Sachs Engineering"/>
   </div>
-</div>``<!-- Events & Open Source Section -->``<h2 align="center">🌟 Events & Open Source</h2>``<div align="center">
+</div><!-- Events & Open Source Section --><h2 align="center">🌟 Events & Open Source</h2><div align="center">
   <table>
-    <tr>
-      <td align="center">
-        <img src="https://img.icons8.com/color/48/000000/prize.png" width="30"/>
-        <br />
-        <strong>SWOC Hackathon Contributor - 2024</strong>
-      </td>
-      <td align="center">
-        <img src="https://img.icons8.com/color/48/000000/bullseye.png" width="30"/>
-        <br />
-        <strong>GitHub Projects Contributor</strong>
-      </td>
-    </tr>
     <tr>
       <td align="center">
         <img src="https://img.icons8.com/color/48/000000/megaphone.png" width="30"/>
@@ -272,16 +260,16 @@
       </td>
     </tr>
   </table>
-</div>``<!-- GitHub Stats Section -->``<h2 align="center">📈 GitHub Stats</h2>``<div align="center">
+</div><!-- GitHub Stats Section --><h2 align="center">📈 GitHub Stats</h2><div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vikrantwiz02&show_icons=true&theme=vue-dark&hide_border=true&count_private=true&bg_color=0d1117&title_color=38BC71&icon_color=38BC71&text_color=ffffff" alt="Vikrant's GitHub stats" height="170"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vikrantwiz02&theme=vue-dark&hide_border=true&background=0d1117&ring=38BC71&fire=38BC71&currStreakLabel=38BC71" alt="Vikrant's GitHub streak" height="170"/>
-</div>``<div align="center">
+</div><div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikrantwiz02&layout=compact&theme=vue-dark&hide_border=true&bg_color=0d1117&title_color=38BC71&text_color=ffffff" alt="Vikrant's top languages" />
-</div>``<div align="center">
+</div><div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=vikrantwiz02&theme=darkhub&no-frame=true&row=1&column=7&margin-w=15" alt="Vikrant's GitHub trophies" />
-</div>``<!-- GitHub Activity Graph -->``<div align="center">
+</div><!-- GitHub Activity Graph --><div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=vikrantwiz02&bg_color=0d1117&color=38BC71&line=38BC71&point=FFFFFF&area=true&hide_border=true" alt="Vikrant's GitHub Activity Graph" />
-</div>``<!-- Connect Section -->``<h2 align="center">📫 Connect With Me</h2>``<div align="center">
+</div><!-- Connect Section -->``<h2 align="center">📫 Connect With Me</h2>``<div align="center">
   <a href="https://linkedin.com/in/vikrantwiz02" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -300,11 +288,11 @@
   <a href="https://dev.to/vikrantwiz02" target="_blank">
     <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to" />
   </a>
-</div>``<!-- Support Section -->``<h2 align="center">☕ Support My Work</h2>``<div align="center">
+</div><!-- Support Section --><h2 align="center">☕ Support My Work</h2>``<div align="center">
   <p>If you find my work valuable, consider supporting me!</p>
   <a href="https://www.buymeacoffee.com/vikrantwiz02" target="_blank">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-green.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" />
   </a>
-</div>``<!-- Footer -->``<div align="center">
+</div><!-- Footer --><div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=38BC71&center=true&vCenter=true&width=435&lines=Thanks+for+visiting+my+profile!;Let's+connect+and+build+together!" alt="Footer Typing SVG" />
-</div>``<!-- Footer Wave -->``<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=38BC71&height=120&section=footer"/>``<!-- Hidden Easter Egg -->
+</div><!-- Footer Wave --><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=38BC71&height=120&section=footer"/><!-- Hidden Easter Egg -->
