@@ -32,49 +32,76 @@
 <!-- Animated Wave -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=38BC71&height=120&section=header"/>
 
-<!-- NEW ABOUT ME SECTION -->
+<!-- UNIQUE ABOUT ME SECTION - MODERN CODE EDITOR STYLE -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=38BC71&center=true&vCenter=true&random=false&width=435&lines=About+Me" alt="About Me" />
-</div>
-
-<br>
-
-<table>
-  <tr>
-    <td>
-      <h3 align="center">Profile</h3>
-      <div align="center">
-        <img src="https://img.shields.io/badge/Location-IIITDM%20Jabalpur,%20India-38BC71?style=flat-square&logo=google-maps&logoColor=white" alt="Location" /><br>
-        <img src="https://img.shields.io/badge/Mission-Building%20tech%20that%20saves%20lives-38BC71?style=flat-square&logo=target&logoColor=white" alt="Mission" /><br>
-        <img src="https://img.shields.io/badge/Specialization-HealthTech,%20GovTech,%20Emergency%20Systems-38BC71?style=flat-square&logo=health&logoColor=white" alt="Specialization" /><br>
-        <img src="https://img.shields.io/badge/Focus-Security--first%20development%20approach-38BC71?style=flat-square&logo=shield&logoColor=white" alt="Focus" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=1&section=header" width="100%"/>
+  <div align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=35&duration=3000&pause=1000&color=38BC71&center=true&vCenter=true&random=false&width=435&lines=About+Me" alt="About Me" />
+  </div>
+  
+  <!-- Code Editor Style About Me -->
+  <div align="center" style="background-color: #0d1117; border-radius: 10px; padding: 20px; margin: 0 auto; max-width: 850px; border: 1px solid #30363d;">
+    <!-- Editor Top Bar -->
+    <div style="display: flex; align-items: center; margin-bottom: 15px; border-bottom: 1px solid #30363d; padding-bottom: 10px;">
+      <div style="background-color: #ff5f56; width: 12px; height: 12px; border-radius: 50%; margin-right: 6px;"></div>
+      <div style="background-color: #ffbd2e; width: 12px; height: 12px; border-radius: 50%; margin-right: 6px;"></div>
+      <div style="background-color: #27c93f; width: 12px; height: 12px; border-radius: 50%; margin-right: 15px;"></div>
+      <div style="color: #8b949e; font-size: 14px; font-family: 'JetBrains Mono', monospace;">vikrant_profile.js</div>
+    </div>
+    
+    <!-- Code Content -->
+    <div align="left" style="font-family: 'JetBrains Mono', monospace; font-size: 14px; line-height: 1.5; overflow: auto; text-align: left; padding: 10px;">
+      <div><span style="color: #ff7b72;">const</span> <span style="color: #79c0ff;">developer</span> <span style="color: #ff7b72;">=</span> <span style="color: #c9d1d9;">{</span></div>
+      <div style="padding-left: 20px;"><span style="color: #7ee787;">name</span><span style="color: #c9d1d9;">:</span> <span style="color: #a5d6ff;">'Vikrant Kumar'</span><span style="color: #c9d1d9;">,</span></div>
+      <div style="padding-left: 20px;"><span style="color: #7ee787;">location</span><span style="color: #c9d1d9;">:</span> <span style="color: #a5d6ff;">'IIITDM Jabalpur, India'</span><span style="color: #c9d1d9;">,</span></div>
+      <div style="padding-left: 20px;"><span style="color: #7ee787;">mission</span><span style="color: #c9d1d9;">:</span> <span style="color: #a5d6ff;">'Building tech that saves lives'</span><span style="color: #c9d1d9;">,</span></div>
+      <div style="padding-left: 20px;"><span style="color: #7ee787;">specialization</span><span style="color: #c9d1d9;">:</span> <span style="color: #a5d6ff;">'HealthTech, GovTech, Emergency Systems'</span><span style="color: #c9d1d9;">,</span></div>
+      <div style="padding-left: 20px;"><span style="color: #7ee787;">focus</span><span style="color: #c9d1d9;">:</span> <span style="color: #a5d6ff;">'Security-first development approach'</span><span style="color: #c9d1d9;">,</span></div>
+      <div style="padding-left: 20px;"><span style="color: #7ee787;">bio</span><span style="color: #c9d1d9;">:</span> <span style="color: #a5d6ff;">`I'm the developer who stays up late fixing security vulnerabilities others don't see. 
+      My code doesn't just run—it protects. When disaster strikes, my applications respond. 
+      When systems fail, my backup protocols activate. I build digital safety nets for the real world. 
+      By day: Student and developer. By night: Ethical hacker and problem solver.`</span><span style="color: #c9d1d9;">,</span></div>
+      <div style="padding-left: 20px;"><span style="color: #7ee787;">funFacts</span><span style="color: #c9d1d9;">:</span> <span style="color: #c9d1d9;">[</span></div>
+      <div style="padding-left: 40px;"><span style="color: #a5d6ff;">'I can solve a Rubik\'s cube in under 2 minutes and apply the same algorithmic thinking to crack complex coding problems!'</span><span style="color: #c9d1d9;">,</span></div>
+      <div style="padding-left: 40px;"><span style="color: #a5d6ff;">'Once built an emergency alert system that helped evacuate 200+ people during a flash flood simulation.'</span></div>
+      <div style="padding-left: 20px;"><span style="color: #c9d1d9;">]</span></div>
+      <div><span style="color: #c9d1d9;">};</span></div>
+      <br>
+      <div><span style="color: #ff7b72;">function</span> <span style="color: #d2a8ff;">displayDeveloperInfo</span><span style="color: #c9d1d9;">(</span><span style="color: #ffa657;">dev</span><span style="color: #c9d1d9;">) {</span></div>
+      <div style="padding-left: 20px;"><span style="color: #ff7b72;">return</span> <span style="color: #a5d6ff;">`${dev.name} is a security-focused developer on a mission to ${dev.mission.toLowerCase()}`</span><span style="color: #c9d1d9;">;</span></div>
+      <div><span style="color: #c9d1d9;">}</span></div>
+      <br>
+      <div><span style="color: #8b949e;">// Output: Vikrant Kumar is a security-focused developer on a mission to building tech that saves lives</span></div>
+      <div><span style="color: #ff7b72;">console</span><span style="color: #c9d1d9;">.</span><span style="color: #d2a8ff;">log</span><span style="color: #c9d1d9;">(</span><span style="color: #d2a8ff;">displayDeveloperInfo</span><span style="color: #c9d1d9;">(</span><span style="color: #79c0ff;">developer</span><span style="color: #c9d1d9;">));</span></div>
+    </div>
+  </div>
+  
+  <!-- Code Editor Bottom Bar -->
+  <div align="center" style="background-color: #161b22; border-radius: 0 0 10px 10px; padding: 8px; margin: 0 auto; max-width: 850px; border: 1px solid #30363d; border-top: none;">
+    <div style="display: flex; justify-content: space-between; align-items: center;">
+      <div style="color: #8b949e; font-size: 12px; font-family: 'JetBrains Mono', monospace;">JavaScript • UTF-8</div>
+      <div style="color: #8b949e; font-size: 12px; font-family: 'JetBrains Mono', monospace;">Ln 21, Col 42</div>
+    </div>
+  </div>
+  
+  <!-- Terminal Output -->
+  <div align="center" style="background-color: #0d1117; border-radius: 10px; padding: 15px; margin: 20px auto; max-width: 850px; border: 1px solid #30363d;">
+    <div align="left" style="font-family: 'JetBrains Mono', monospace; font-size: 14px; color: #e6edf3;">
+      <div style="color: #8b949e; margin-bottom: 10px;">$ node vikrant_profile.js</div>
+      <div style="color: #7ee787;">Vikrant Kumar is a security-focused developer on a mission to building tech that saves lives</div>
+      <div style="display: flex; align-items: center; margin-top: 10px;">
+        <div style="color: #8b949e;">$</div>
+        <div style="width: 10px; height: 18px; background-color: #38BC71; margin-left: 5px; animation: blink 1s infinite;"></div>
       </div>
-    </td>
-    <td>
-      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Coding GIF"/>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2">
-      <h3 align="center">About</h3>
-      <p align="center">
-        I'm the developer who stays up late fixing security vulnerabilities others don't see. My code doesn't just run—it protects. When disaster strikes, my applications respond. When systems fail, my backup protocols activate. I build digital safety nets for the real world. By day: Student and developer. By night: Ethical hacker and problem solver.
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2">
-      <h3 align="center">Fun Facts</h3>
-      <p align="center">
-        ⚡ I can solve a Rubik's cube in under 2 minutes and apply the same algorithmic thinking to crack complex coding problems!<br>
-        ⚡ Once built an emergency alert system that helped evacuate 200+ people during a flash flood simulation.
-      </p>
-    </td>
-  </tr>
-</table>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=38BC71&height=100&section=footer" width="100%" />
+    </div>
+  </div>
+  
+  <!-- Coding GIF -->
+  <div align="center" style="margin: 20px auto; max-width: 850px;">
+    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" style="border-radius: 10px; border: 1px solid #30363d;" alt="Coding GIF"/>
+  </div>
+  
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=1&section=footer" width="100%"/>
 </div>
 
 <!-- Tech Stack Section -->
