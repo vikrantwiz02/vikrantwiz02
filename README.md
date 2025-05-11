@@ -55,20 +55,7 @@
 
 <br clear="both">
 
-<!-- Running Services Section -->
-<h2 align="center">⚙️ Running Services</h2>
-
-<div align="center">
-  <img src="https://github.com/SandunWebDev/SandunWebDev/blob/main/assets/console.gif?raw=true" alt="Terminal" width="600px">
-  void main() {
-      while(1) {
-          develop(&real_projects);
-          secure(&infra);
-          openSource(&github);
-          mentor(&peers);
-      }
-  }
-</div><!-- Tech Stack Section --><h2 align="center">🛠️ Tech Stack</h2><div align="center">
+<!-- Tech Stack Section --><h2 align="center">🛠️ Tech Stack</h2><div align="center">
   <h3>Languages</h3>
   <p>
     <a href="#"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/></a>
@@ -103,7 +90,7 @@
     <a href="#"><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="Postman"/></a>
     <a href="#"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/></a>
   </p>
-</div><!-- Skills Section with Progress Bars --><h2 align="center">📊 Skills</h2>``<div align="center">
+</div><!-- Skills Section with Progress Bars --><h2 align="center">📊 Skills</h2><div align="center">
   <table>
     <tr>
       <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="20"/> React.js</td>
@@ -151,9 +138,9 @@
         <td width="50%">
           <h3 align="center">Saviour</h3>
           <div align="center">
-            <a href="#" target="_blank"><img src="https://dummyimage.com/600x300/38BC71/ffffff&text=Saviour+App" width="400" alt="Saviour Project"/></a>
+            <a href="https://github.com/vikrantwiz02/Saviour2.O" target="_blank"><img src="https://dummyimage.com/600x300/38BC71/ffffff&text=Saviour+App" width="400" alt="Saviour Project"/></a>
             <p>
-              <a href="#" target="_blank">
+              <a href="https://saviour-ten.vercel.app/" target="_blank">
                 <img src="https://img.shields.io/badge/Code-View%20Code-informational?style=for-the-badge&logo=github&logoColor=white&color=38BC71" alt="View Code" />
               </a>
               <a href="#" target="_blank">
@@ -164,9 +151,9 @@
           </div>
         </td>
         <td width="50%">
-          <h3 align="center">Kavach</h3>
+          <h3 align="center">IIITDMJ Unofficial Site</h3>
           <div align="center">
-            <a href="#" target="_blank"><img src="https://dummyimage.com/600x300/38BC71/ffffff&text=Kavach+System" width="400" alt="Kavach Project"/></a>
+            <a href="#" target="_blank"><img src="https://dummyimage.com/600x300/38BC71/ffffff&text=IIITDMJ+Unofficial+Site" width="400" alt="IIITDMJ Unofficial Site"/></a>
             <p>
               <a href="#" target="_blank">
                 <img src="https://img.shields.io/badge/Code-View%20Code-informational?style=for-the-badge&logo=github&logoColor=white&color=38BC71" alt="View Code" />
