@@ -32,46 +32,50 @@
 <!-- Animated Wave -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=38BC71&height=120&section=header"/>
 
-<!-- About Me Section - Timeline Style -->
-<h2 align="center">👨‍💻 About Me</h2>
-
+<!-- NEW ABOUT ME SECTION -->
 <div align="center">
-  <img align="right" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" />
-  
-  <div align="left" style="display: inline-block; max-width: 500px;">
-    <div style="border-left: 2px solid #38BC71; padding-left: 20px; margin-left: 10px;">
-      <div style="position: relative; margin-bottom: 20px;">
-        <div style="position: absolute; width: 10px; height: 10px; background-color: #38BC71; border-radius: 50%; left: -26px; top: 6px;"></div>
-        <h3 style="margin: 0; color: #38BC71;">Profile</h3>
-        <p>
-          <b>🌍 Location:</b> IIITDM Jabalpur, India<br>
-          <b>🚀 Mission:</b> Building tech that saves lives<br>
-          <b>💼 Specialization:</b> HealthTech, GovTech, Emergency Systems<br>
-          <b>🔒 Focus:</b> Security-first development approach
-        </p>
-      </div>
-      
-      <div style="position: relative; margin-bottom: 20px;">
-        <div style="position: absolute; width: 10px; height: 10px; background-color: #38BC71; border-radius: 50%; left: -26px; top: 6px;"></div>
-        <h3 style="margin: 0; color: #38BC71;">About</h3>
-        <p>
-          I'm the developer who stays up late fixing security vulnerabilities others don't see. My code doesn't just run—it protects. When disaster strikes, my applications respond. When systems fail, my backup protocols activate. I build digital safety nets for the real world. By day: Student and developer. By night: Ethical hacker and problem solver.
-        </p>
-      </div>
-      
-      <div style="position: relative;">
-        <div style="position: absolute; width: 10px; height: 10px; background-color: #38BC71; border-radius: 50%; left: -26px; top: 6px;"></div>
-        <h3 style="margin: 0; color: #38BC71;">Fun Facts</h3>
-        <p>
-          ⚡ I can solve a Rubik's cube in under 2 minutes and apply the same algorithmic thinking to crack complex coding problems!<br>
-          ⚡ Once built an emergency alert system that helped evacuate 200+ people during a flash flood simulation.
-        </p>
-      </div>
-    </div>
-  </div>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=38BC71&center=true&vCenter=true&random=false&width=435&lines=About+Me" alt="About Me" />
 </div>
 
-<br clear="both">
+<br>
+
+<table>
+  <tr>
+    <td>
+      <h3 align="center">Profile</h3>
+      <div align="center">
+        <img src="https://img.shields.io/badge/Location-IIITDM%20Jabalpur,%20India-38BC71?style=flat-square&logo=google-maps&logoColor=white" alt="Location" /><br>
+        <img src="https://img.shields.io/badge/Mission-Building%20tech%20that%20saves%20lives-38BC71?style=flat-square&logo=target&logoColor=white" alt="Mission" /><br>
+        <img src="https://img.shields.io/badge/Specialization-HealthTech,%20GovTech,%20Emergency%20Systems-38BC71?style=flat-square&logo=health&logoColor=white" alt="Specialization" /><br>
+        <img src="https://img.shields.io/badge/Focus-Security--first%20development%20approach-38BC71?style=flat-square&logo=shield&logoColor=white" alt="Focus" />
+      </div>
+    </td>
+    <td>
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Coding GIF"/>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <h3 align="center">About</h3>
+      <p align="center">
+        I'm the developer who stays up late fixing security vulnerabilities others don't see. My code doesn't just run—it protects. When disaster strikes, my applications respond. When systems fail, my backup protocols activate. I build digital safety nets for the real world. By day: Student and developer. By night: Ethical hacker and problem solver.
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <h3 align="center">Fun Facts</h3>
+      <p align="center">
+        ⚡ I can solve a Rubik's cube in under 2 minutes and apply the same algorithmic thinking to crack complex coding problems!<br>
+        ⚡ Once built an emergency alert system that helped evacuate 200+ people during a flash flood simulation.
+      </p>
+    </td>
+  </tr>
+</table>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=38BC71&height=100&section=footer" width="100%" />
+</div>
 
 <!-- Tech Stack Section -->
 <h2 align="center">🛠️ Tech Stack</h2>
