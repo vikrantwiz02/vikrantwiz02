@@ -380,7 +380,7 @@
   <a href="https://github.com/vikrantwiz02" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://vikrant-portfolio-kappa.vercel.com" target="_blank">
+  <a href="https://vikrant-portfolio-kappa.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-38BC71?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://twitter.com/vikrantwiz02" target="_blank">
