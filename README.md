@@ -16,59 +16,40 @@
 </div>
 
 <p style="font-size: 13px; color: #b3e5fc; margin: 15px 0;">
-  ![Profile Views](https://komarev.com/ghpvc/?username=vikrantwiz02&label=Profile%20views&color=00d9ff&style=flat)
+  <img src="https://komarev.com/ghpvc/?username=vikrantwiz02&label=Profile%20views&color=00d9ff&style=flat" alt="Profile Views" />
 </p>
 
 </div>
 
 ---
 
-<div align="center">
-
 ## 👨‍💻 Professional Profile
 
-</div>
+<table>
+<tr>
+<td width="45%" align="center">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="85%" style="border-radius: 12px; border: 3px solid #1f6feb;" />
+</td>
+<td width="55%">
 
-<div align="center">
-  <table style="border-collapse: collapse; width: 100%; background: linear-gradient(135deg, #f8f9fa 0%, #ffffff 100%); border-radius: 12px; overflow: hidden; box-shadow: 0 8px 16px rgba(31, 111, 235, 0.15);">
-    <tr>
-      <td width="45%" style="padding: 25px; text-align: center; border-right: 2px solid #e1f5ff;">
-        <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="85%" style="border-radius: 12px; border: 3px solid #1f6feb; box-shadow: 0 8px 16px rgba(31, 111, 235, 0.2);" />
-      </td>
-      <td width="55%" style="padding: 35px; vertical-align: top;">
-        <h3 style="font-size: 32px; margin: 0 0 20px 0; color: #1f6feb; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-weight: 700; letter-spacing: 0.5px;">About Me</h3>
-        
-        <div style="background: linear-gradient(135deg, #e3f2fd 0%, #f3e5f5 100%); padding: 16px 18px; border-radius: 8px; margin-bottom: 18px; border-left: 4px solid #1f6feb;">
-          <p style="font-size: 16px; line-height: 1.8; color: #1a237e; margin: 0; text-align: left; font-weight: 500;">
-            I'm a <strong style="color: #1f6feb;">mission-driven full-stack developer</strong> specializing in building scalable, high-impact solutions. With expertise spanning frontend, backend, and DevOps, I create products that solve real-world problems.
-          </p>
-        </div>
-        
-        <p style="font-size: 14px; color: #1f6feb; margin: 16px 0 12px 0; text-align: left; font-weight: 700; letter-spacing: 0.5px;">🎯 FOCUS AREAS</p>
-        <div style="text-align: left; margin: 0; padding: 0;">
-          <p style="font-size: 14px; color: #2d333b; margin: 6px 0; padding: 8px 0; border-bottom: 1px solid #e5e7eb; line-height: 1.6;">
-            ✦ HealthTech & Emergency Response Systems
-          </p>
-          <p style="font-size: 14px; color: #2d333b; margin: 6px 0; padding: 8px 0; border-bottom: 1px solid #e5e7eb; line-height: 1.6;">
-            ✦ Full-Stack Web & Mobile Development
-          </p>
-          <p style="font-size: 14px; color: #2d333b; margin: 6px 0; padding: 8px 0; border-bottom: 1px solid #e5e7eb; line-height: 1.6;">
-            ✦ Cloud Infrastructure & DevOps
-          </p>
-          <p style="font-size: 14px; color: #2d333b; margin: 6px 0; padding: 8px 0; line-height: 1.6;">
-            ✦ Scalable System Architecture
-          </p>
-        </div>
+### About Me
 
-        <div style="background: #f8f9fa; padding: 16px 18px; border-radius: 8px; margin-top: 18px; border: 1px solid #e5e7eb;">
-          <p style="font-size: 13px; color: #2d333b; margin: 6px 0; font-weight: 500;"><span style="color: #1f6feb;">📍</span> <strong>Based in:</strong> IIITDM Jabalpur, India</p>
-          <p style="font-size: 13px; color: #2d333b; margin: 6px 0; font-weight: 500;"><span style="color: #1f6feb;">💼</span> <strong>Experience:</strong> Building production-grade applications</p>
-          <p style="font-size: 13px; color: #2d333b; margin: 6px 0; font-weight: 500;"><span style="color: #1f6feb;">🚀</span> <strong>Mission:</strong> Transform ideas into impact</p>
-        </div>
-      </td>
-    </tr>
-  </table>
-</div>
+I'm a **mission-driven full-stack developer** specializing in building scalable, high-impact solutions. With expertise spanning frontend, backend, and DevOps, I create products that solve real-world problems.
+
+#### 🎯 Focus Areas
+- ✦ HealthTech & Emergency Response Systems
+- ✦ Full-Stack Web & Mobile Development  
+- ✦ Cloud Infrastructure & DevOps
+- ✦ Scalable System Architecture
+
+#### 📍 Additional Info
+- **Based in:** IIITDM Jabalpur, India
+- **Experience:** Building production-grade applications
+- **Mission:** Transform ideas into impact
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -83,7 +64,7 @@
 ```mermaid
 %%{init: {'flowchart': {'htmlLabels': true}, 'theme': 'base', 'themeVariables': { 'primaryColor':'#e1f5ff', 'primaryBorderColor':'#1f6feb', 'lineColor':'#1f6feb', 'tertiaryColor':'#1f6feb', 'tertiaryTextColor':'#fff', 'fontSize':'16px', 'fontFamily': 'Segoe UI'}}}%%
 graph LR
-    A["<b>5+</b><br/>Projects"] --> E["<b>EXPERT</b><br/><b>Developer</b>"]
+    A["<b>10+</b><br/>Projects"] --> E["<b>EXPERT</b><br/><b>Developer</b>"]
     B["<b>10+</b><br/>Technologies"] --> E
     C["<b>Full-Stack</b><br/>Expertise"] --> E
     D["<b>Cloud &</b><br/><b>DevOps</b>"] --> E
@@ -192,7 +173,7 @@ graph TB
 
 </div>
 
-| # | **Project** | **Tech Stack** | **Description** | **Status** |
+| S.No. | **Project** | **Tech Stack** | **Description** | **Status** |
 |---|---|---|---|---|
 | 1 | **Saviour** | `React Native` `Expo` `Firebase` `Typescript` | Community safety platform with real-time alerts and location-based emergency services | ✨ Active |
 | 2 | **Saviour 2.0** | `React` `Node.js` `Firebase` `Typescript` | Advanced emergency response platform with real-time tracking and AI-powered resource allocation | ✨ Active |
@@ -200,7 +181,7 @@ graph TB
 | 4 | **CFD Simulator** | `Python` `NumPy` `Matplotlib` | Computational fluid dynamics simulation engine with visualization tools | 📊 Research |
 | 5 | **HydroTech** | `Python` `React` `Node.js` `MongoDB` | AI-Powered Groundwater Analytics | ✨ Active |
 
-**📌 View Code & Live Demos:** [GitHub Repository](https://github.com/vikrantwiz02) | [Portfolio](https://vikrant-portfolio-kappa.vercel.app)
+**📌 View Code & Live Demos:** [GitHub Repository](https://github.com/vikrantwiz02?tab=repositories) | [Portfolio](https://vikrant-portfolio-kappa.vercel.app)
 
 ---
 
@@ -269,10 +250,10 @@ I'm passionate about solving challenging problems and building impactful product
 ```mermaid
 %%{init: {'flowchart': {'htmlLabels': true}, 'theme': 'base', 'themeVariables': { 'primaryColor':'#e1f5ff', 'primaryBorderColor':'#1f6feb', 'lineColor':'#1f6feb', 'tertiaryColor':'#1f6feb', 'tertiaryTextColor':'#fff', 'fontSize':'15px', 'fontFamily': 'Segoe UI'}}}%%
 graph LR
-    A["<b>🚀 Scalable<br/>Solutions</b>"] -->|Production Ready| B["<b>🎯 Current<br/>Focus</b>"]
-    C["<b>☁️ DevOps &<br/>Cloud</b>"] -->|CI/CD, Docker| B
-    D["<b>💻 Full-Stack<br/>Development</b>"] -->|Modern Tech| B
-    E["<b>🤝 Open<br/>Source</b>"] -->|Community| B
+    A["<b>Scalable<br/>Solutions</b>"] -->|Production Ready| B["<b>Current<br/>Focus</b>"]
+    C["<b>DevOps &<br/>Cloud</b>"] -->|CI/CD, Docker| B
+    D["<b>Full-Stack<br/>Development</b>"] -->|Modern Tech| B
+    E["<b>Open<br/>Source</b>"] -->|Community| B
     
     B --> F["<b>Impact<br/>Driven</b>"]
     
@@ -286,10 +267,37 @@ graph LR
 
 ---
 
-<div align="center">
+<div align="center" style="background: linear-gradient(135deg, #1f6feb 0%, #0d47a1 100%); padding: 50px 30px; border-radius: 12px; margin-top: 40px;">
 
-**Let's build something extraordinary together.**
+## ✨ Let's Build Something Extraordinary
 
-Made with dedication and expertise | © 2025
+<p style="font-size: 16px; color: #e3f2fd; margin: 20px 0; font-style: italic; font-weight: 500;">
+  "Great things never came from comfort zones. Let's create impact together."
+</p>
+
+<div style="margin: 30px 0;">
+
+### 📧 Get in Touch
+
+[![Email](https://img.shields.io/badge/Email-vikrantkrd@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vikrantkrd@gmail.com)
+
+</div>
+
+<div style="margin: 30px 0;">
+
+### 💼 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-vikrantwiz02-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vikrantwiz02)
+
+</div>
+
+<div style="border-top: 2px solid rgba(255,255,255,0.2); padding-top: 20px; margin-top: 30px;">
+  <p style="font-size: 13px; color: #b3e5fc; margin: 10px 0;">
+    Made with 💻 dedication and 🚀 expertise
+  </p>
+  <p style="font-size: 12px; color: #90caf9; margin: 5px 0;">
+    © 2025 Vikrant Kumar • All Rights Reserved
+  </p>
+</div>
 
 </div>
