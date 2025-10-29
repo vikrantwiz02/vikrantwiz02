@@ -1,24 +1,25 @@
-<div align="center">
+<div align="center" style="background: linear-gradient(135deg, #1f6feb 0%, #0d47a1 100%); padding: 40px 20px; border-radius: 12px; margin-bottom: 20px;">
 
-# VIKRANT KUMAR
+# ✨ VIKRANT KUMAR
+<h2 style="font-size: 28px; margin: 15px 0; color: #fff; font-weight: 600; letter-spacing: 1px;">
+  <span style="font-family: 'Monaco', 'Courier New', monospace; color: #00d9ff;">{ </span>Full-Stack Developer<span style="font-family: 'Monaco', 'Courier New', monospace; color: #00d9ff;"> }</span>
+</h2>
 
-<p>
-  <strong>
-    <a href="https://linkedin.com/in/vikrantwiz02" style="text-decoration: none; color: inherit;">Full-Stack Developer</a>
-    &nbsp;•&nbsp;
-    <a href="https://github.com/vikrantwiz02" style="text-decoration: none; color: inherit;">Problem Solver</a>
-    &nbsp;•&nbsp;
-    <a href="https://vikrant-portfolio-kappa.vercel.app" style="text-decoration: none; color: inherit;">Tech Enthusiast</a>
-  </strong>
+<p style="font-size: 18px; color: #ffffff; font-weight: 500; margin: 20px 0; letter-spacing: 0.5px;">
+  🚀 Problem Solver &nbsp;•&nbsp; 💻 Full-Stack Architect &nbsp;•&nbsp; 🎯 Tech Innovator
 </p>
 
-**Building elegant solutions that transform challenges into opportunities**
-
-![Profile Views](https://komarev.com/ghpvc/?username=vikrantwiz02&label=Profile%20views&color=1f6feb&style=flat)
-
+<div style="background: rgba(255,255,255,0.1); padding: 15px 30px; border-radius: 8px; border-left: 4px solid #00d9ff; margin: 20px 0; backdrop-filter: blur(10px);">
+  <p style="font-size: 16px; color: #e3f2fd; margin: 0; font-style: italic; font-weight: 500;">
+    "Building elegant solutions that transform challenges into opportunities"
+  </p>
 </div>
 
----
+<p style="font-size: 13px; color: #b3e5fc; margin: 15px 0;">
+  ![Profile Views](https://komarev.com/ghpvc/?username=vikrantwiz02&label=Profile%20views&color=00d9ff&style=flat)
+</p>
+
+</div>
 
 ---
 
@@ -29,31 +30,41 @@
 </div>
 
 <div align="center">
-  <table style="border-collapse: collapse; background: linear-gradient(135deg, #f8f9fa 0%, #ffffff 100%); border-radius: 12px; overflow: hidden; box-shadow: 0 4px 6px rgba(0,0,0,0.07);">
+  <table style="border-collapse: collapse; width: 100%; background: linear-gradient(135deg, #f8f9fa 0%, #ffffff 100%); border-radius: 12px; overflow: hidden; box-shadow: 0 8px 16px rgba(31, 111, 235, 0.15);">
     <tr>
-      <td width="45%" style="padding: 20px; text-align: center;">
-        <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="90%" style="border-radius: 12px; border: 2px solid #1f6feb;" />
+      <td width="45%" style="padding: 25px; text-align: center; border-right: 2px solid #e1f5ff;">
+        <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="85%" style="border-radius: 12px; border: 3px solid #1f6feb; box-shadow: 0 8px 16px rgba(31, 111, 235, 0.2);" />
       </td>
-      <td width="55%" style="padding: 30px; vertical-align: top;">
-        <h3 style="font-size: 28px; margin: 0 0 15px 0; color: #1f6feb; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">About Me</h3>
+      <td width="55%" style="padding: 35px; vertical-align: top;">
+        <h3 style="font-size: 32px; margin: 0 0 20px 0; color: #1f6feb; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-weight: 700; letter-spacing: 0.5px;">About Me</h3>
         
-        <p style="font-size: 16px; line-height: 1.8; color: #2d333b; margin: 15px 0; text-align: left;">
-          I'm a <strong>mission-driven full-stack developer</strong> specializing in building scalable, high-impact solutions. With expertise spanning frontend, backend, and DevOps, I create products that solve real-world problems and make a tangible difference.
-        </p>
+        <div style="background: linear-gradient(135deg, #e3f2fd 0%, #f3e5f5 100%); padding: 16px 18px; border-radius: 8px; margin-bottom: 18px; border-left: 4px solid #1f6feb;">
+          <p style="font-size: 16px; line-height: 1.8; color: #1a237e; margin: 0; text-align: left; font-weight: 500;">
+            I'm a <strong style="color: #1f6feb;">mission-driven full-stack developer</strong> specializing in building scalable, high-impact solutions. With expertise spanning frontend, backend, and DevOps, I create products that solve real-world problems.
+          </p>
+        </div>
         
-        <p style="font-size: 14px; color: #57606a; margin: 20px 0 15px 0; text-align: left;"><strong>🎯 Focus Areas:</strong></p>
-        <ul style="text-align: left; color: #57606a; margin: 0; padding-left: 20px; line-height: 2;">
-          <li style="margin: 5px 0;">HealthTech & Emergency Response Systems</li>
-          <li style="margin: 5px 0;">Full-Stack Web & Mobile Development</li>
-          <li style="margin: 5px 0;">Cloud Infrastructure & DevOps</li>
-          <li style="margin: 5px 0;">Scalable System Architecture</li>
-        </ul>
+        <p style="font-size: 14px; color: #1f6feb; margin: 16px 0 12px 0; text-align: left; font-weight: 700; letter-spacing: 0.5px;">🎯 FOCUS AREAS</p>
+        <div style="text-align: left; margin: 0; padding: 0;">
+          <p style="font-size: 14px; color: #2d333b; margin: 6px 0; padding: 8px 0; border-bottom: 1px solid #e5e7eb; line-height: 1.6;">
+            ✦ HealthTech & Emergency Response Systems
+          </p>
+          <p style="font-size: 14px; color: #2d333b; margin: 6px 0; padding: 8px 0; border-bottom: 1px solid #e5e7eb; line-height: 1.6;">
+            ✦ Full-Stack Web & Mobile Development
+          </p>
+          <p style="font-size: 14px; color: #2d333b; margin: 6px 0; padding: 8px 0; border-bottom: 1px solid #e5e7eb; line-height: 1.6;">
+            ✦ Cloud Infrastructure & DevOps
+          </p>
+          <p style="font-size: 14px; color: #2d333b; margin: 6px 0; padding: 8px 0; line-height: 1.6;">
+            ✦ Scalable System Architecture
+          </p>
+        </div>
 
-        <p style="font-size: 14px; color: #57606a; margin: 20px 0 0 0; text-align: left;">
-          <strong>📍 Based in:</strong> IIITDM Jabalpur, India<br>
-          <strong>💼 Experience:</strong> Building production-grade applications<br>
-          <strong>🚀 Mission:</strong> Transform ideas into impact
-        </p>
+        <div style="background: #f8f9fa; padding: 16px 18px; border-radius: 8px; margin-top: 18px; border: 1px solid #e5e7eb;">
+          <p style="font-size: 13px; color: #2d333b; margin: 6px 0; font-weight: 500;"><span style="color: #1f6feb;">📍</span> <strong>Based in:</strong> IIITDM Jabalpur, India</p>
+          <p style="font-size: 13px; color: #2d333b; margin: 6px 0; font-weight: 500;"><span style="color: #1f6feb;">💼</span> <strong>Experience:</strong> Building production-grade applications</p>
+          <p style="font-size: 13px; color: #2d333b; margin: 6px 0; font-weight: 500;"><span style="color: #1f6feb;">🚀</span> <strong>Mission:</strong> Transform ideas into impact</p>
+        </div>
       </td>
     </tr>
   </table>
