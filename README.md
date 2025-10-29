@@ -1,6 +1,6 @@
 <div align="center" style="background: linear-gradient(135deg, #1f6feb 0%, #0d47a1 100%); padding: 40px 20px; border-radius: 12px; margin-bottom: 20px;">
 
-# ✨ VIKRANT KUMAR
+# VIKRANT KUMAR
 <h2 style="font-size: 28px; margin: 15px 0; color: #fff; font-weight: 600; letter-spacing: 1px;">
   <span style="font-family: 'Monaco', 'Courier New', monospace; color: #00d9ff;">{ </span>Full-Stack Developer<span style="font-family: 'Monaco', 'Courier New', monospace; color: #00d9ff;"> }</span>
 </h2>
@@ -34,7 +34,7 @@
 
 ### About Me
 
-I'm a **mission-driven full-stack developer** specializing in building scalable, high-impact solutions. With expertise spanning frontend, backend, and DevOps, I create products that solve real-world problems.
+I'm a **full-stack developer** specializing in building scalable, high-impact solutions. With expertise spanning frontend, backend, and DevOps, I create products that solve real-world problems.
 
 #### 🎯 Focus Areas
 - ✦ HealthTech & Emergency Response Systems
