@@ -296,7 +296,7 @@ graph LR
     Made with 💻 dedication and 🚀 expertise
   </p>
   <p style="font-size: 12px; color: #90caf9; margin: 5px 0;">
-    © 2025 Vikrant Kumar • All Rights Reserved
+    © 2026 Vikrant Kumar • All Rights Reserved
   </p>
 </div>
 
