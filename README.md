@@ -173,13 +173,14 @@ graph TB
 
 | S.No. | **Project** | **Tech Stack** | **Description** | **Status** |
 |---|---|---|---|---|
-| 1 | **Saviour** | `React Native` `Expo` `Firebase` `Typescript` | Community safety platform with real-time alerts and location-based emergency services (App based) | ✨ Active |
-| 2 | **Saviour 2.0** | `React` `Node.js` `Firebase` `Typescript` | Community safety platform with real-time alerts and location-based emergency services (Web based) | ✨ Active |
-| 3 | **IIITDMJ Website** | `React` `Tailwind` `Firebase` | Institutional website with dynamic content management and student portal integration | ✨ Active |
-| 4 | **CFD Simulator** | `Python` `NumPy` `Matplotlib` | Computational fluid dynamics simulation engine with visualization tools | 📊 Research |
-| 5 | **HydroTech** | `Python` `React` `Node.js` `MongoDB` | AI-Powered Groundwater Analytics | ✨ Active |
+| 1 | **ORSI-2025 & ICAORFDI-2026** | `React` `Typescript`| International Conference on Applications of Operations Research in Finance, Defence, and Industry | ✨ Active |
+| 2 | **Saviour** | `React Native` `Expo` `Firebase` `Typescript` | Community safety platform with real-time alerts and location-based emergency services (App based) | ✨ Active |
+| 3 | **Saviour 2.0** | `React` `Node.js` `Firebase` `Typescript` | Community safety platform with real-time alerts and location-based emergency services (Web based) | ✨ Active |
+| 4 | **IIITDMJ Website** | `React` `Tailwind` `Firebase` | Institutional website with dynamic content management and student portal integration | ✨ Active |
+| 5 | **CFD Simulator** | `Python` `NumPy` `Matplotlib` | Computational fluid dynamics simulation engine with visualization tools | 📊 Research |
+| 6 | **HydroTech** | `Python` `React` `Node.js` `MongoDB` | AI-Powered Groundwater Analytics | ✨ Active |
 
-**📌 View Code & Live Demos:** [GitHub Repository](https://github.com/vikrantwiz02?tab=repositories) | [Portfolio](https://vikrant-portfolio-kappa.vercel.app)
+**📌 View Code & Live Demos:** [GitHub Repository](https://github.com/vikrantwiz02?tab=repositories) | [Portfolio](https://vikrant-k.vercel.app)
 
 ---
 
@@ -235,7 +236,7 @@ I'm passionate about solving challenging problems and building impactful product
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vikrantwiz02)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vikrantkrd@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vikrantwiz02)
-[![Portfolio](https://img.shields.io/badge/Portfolio-1f6feb?style=for-the-badge&logo=About.me&logoColor=white)](https://vikrant-portfolio-kappa.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-1f6feb?style=for-the-badge&logo=About.me&logoColor=white)](https://vikrant-k.vercel.app)
 
 </div>
 
@@ -290,11 +291,8 @@ graph LR
 </div>
 
 <div style="border-top: 2px solid rgba(255,255,255,0.2); padding-top: 20px; margin-top: 30px;">
-  <p style="font-size: 13px; color: #b3e5fc; margin: 10px 0;">
-    Made with 💻 dedication and 🚀 expertise
-  </p>
   <p style="font-size: 12px; color: #90caf9; margin: 5px 0;">
-    © 2026 Vikrant Kumar • All Rights Reserved
+    © 2026 Vikrant Kumar
   </p>
 </div>
 
