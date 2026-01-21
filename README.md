@@ -6,7 +6,7 @@
 </h2>
 
 <p style="font-size: 18px; color: #ffffff; font-weight: 500; margin: 20px 0; letter-spacing: 0.5px;">
-  🚀 Problem Solver &nbsp;•&nbsp; 💻 Full-Stack Architect &nbsp;•&nbsp; 🎯 Tech Innovator
+ 💻 Full-Stack Architect
 </p>
 
 <div style="background: rgba(255,255,255,0.1); padding: 15px 30px; border-radius: 8px; border-left: 4px solid #00d9ff; margin: 20px 0; backdrop-filter: blur(10px);">
@@ -37,7 +37,6 @@
 I'm a **full-stack developer** specializing in building scalable, high-impact solutions. With expertise spanning frontend, backend, and DevOps, I create products that solve real-world problems.
 
 #### 🎯 Focus Areas
-- ✦ HealthTech & Emergency Response Systems
 - ✦ Full-Stack Web & Mobile Development  
 - ✦ Cloud Infrastructure & DevOps
 - ✦ Scalable System Architecture
@@ -45,7 +44,6 @@ I'm a **full-stack developer** specializing in building scalable, high-impact so
 #### 📍 Additional Info
 - **Based in:** IIITDM Jabalpur, India
 - **Experience:** Building production-grade applications
-- **Mission:** Transform ideas into impact
 
 </td>
 </tr>
@@ -175,8 +173,8 @@ graph TB
 
 | S.No. | **Project** | **Tech Stack** | **Description** | **Status** |
 |---|---|---|---|---|
-| 1 | **Saviour** | `React Native` `Expo` `Firebase` `Typescript` | Community safety platform with real-time alerts and location-based emergency services | ✨ Active |
-| 2 | **Saviour 2.0** | `React` `Node.js` `Firebase` `Typescript` | Advanced emergency response platform with real-time tracking and AI-powered resource allocation | ✨ Active |
+| 1 | **Saviour** | `React Native` `Expo` `Firebase` `Typescript` | Community safety platform with real-time alerts and location-based emergency services (App based) | ✨ Active |
+| 2 | **Saviour 2.0** | `React` `Node.js` `Firebase` `Typescript` | Community safety platform with real-time alerts and location-based emergency services (Web based) | ✨ Active |
 | 3 | **IIITDMJ Website** | `React` `Tailwind` `Firebase` | Institutional website with dynamic content management and student portal integration | ✨ Active |
 | 4 | **CFD Simulator** | `Python` `NumPy` `Matplotlib` | Computational fluid dynamics simulation engine with visualization tools | 📊 Research |
 | 5 | **HydroTech** | `Python` `React` `Node.js` `MongoDB` | AI-Powered Groundwater Analytics | ✨ Active |
