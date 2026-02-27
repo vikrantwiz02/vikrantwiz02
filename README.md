@@ -180,7 +180,7 @@ graph TB
 | 5 | **CFD Simulator** | `Python` `NumPy` `Matplotlib` | Computational fluid dynamics simulation engine with visualization tools | 📊 Research |
 | 6 | **HydroTech** | `Python` `React` `Node.js` `MongoDB` | AI-Powered Groundwater Analytics | ✨ Active |
 
-**📌 View Code & Live Demos:** [GitHub Repository](https://github.com/vikrantwiz02?tab=repositories) | [Portfolio](https://vikrant-k.vercel.app)
+**📌 View Code & Live Demos:** [GitHub Repository](https://github.com/vikrantwiz02?tab=repositories) | [Portfolio](https://www.vikrantkumar.site/)
 
 ---
 
@@ -236,7 +236,7 @@ I'm passionate about solving challenging problems and building impactful product
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vikrantwiz02)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vikrantkrd@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vikrantwiz02)
-[![Portfolio](https://img.shields.io/badge/Portfolio-1f6feb?style=for-the-badge&logo=About.me&logoColor=white)](https://vikrant-k.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-1f6feb?style=for-the-badge&logo=About.me&logoColor=white)](https://www.vikrantkumar.site/)
 
 </div>
 
