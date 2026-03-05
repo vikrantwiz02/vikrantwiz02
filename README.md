@@ -82,24 +82,19 @@ const vikrant = {
 
 ## GitHub Analytics
 
-<div align="center">
+<p align="center">
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vikrantwiz02&theme=github_dark" alt="Stats" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vikrantwiz02&theme=github_dark" alt="Top Languages by Repo" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vikrantwiz02&theme=github_dark" alt="Top Languages by Commit" />
+</p>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=vikrantwiz02&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="GitHub Stats" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikrantwiz02&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" alt="Top Languages" />
-
-<br/><br/>
-
-<a href="https://github.com/vikrantwiz02">
+<p align="center">
   <img src="https://streak-stats.demolab.com?user=vikrantwiz02&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="GitHub Streak" />
-</a>
+</p>
 
-<br/><br/>
-
-<a href="https://github.com/vikrantwiz02">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vikrantwiz02&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&area_color=58a6ff" alt="Contribution Graph" width="95%" />
-</a>
-
-</div>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vikrantwiz02&theme=github_dark" alt="Contribution Graph" width="95%" />
+</p>
 
 ---
 
