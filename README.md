@@ -1,15 +1,14 @@
 <div align="center">
 
-<!-- Dynamic Typing Header -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Hey+%F0%9F%91%8B+I'm+Vikrant+Kumar;Full-Stack+Developer+%7C+Cloud+Enthusiast" alt="Typing SVG" /></a>
 
 <br/>
 
 <img src="https://komarev.com/ghpvc/?username=vikrantwiz02&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
 &nbsp;&nbsp;
-[![LinkedIn](https://img.shields.io/badge/-vikrantwiz02-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/vikrantwiz02)
-[![Portfolio](https://img.shields.io/badge/-vikrantkumar.site-000?style=flat-square&logo=vercel&logoColor=white)](https://www.vikrantkumar.site/)
-[![Email](https://img.shields.io/badge/-vikrantkrd@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:vikrantkrd@gmail.com)
+<a href="https://linkedin.com/in/vikrantwiz02"><img src="https://img.shields.io/badge/-vikrantwiz02-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://www.vikrantkumar.site/"><img src="https://img.shields.io/badge/-vikrantkumar.site-000?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+<a href="mailto:vikrantkrd@gmail.com"><img src="https://img.shields.io/badge/-vikrantkrd@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
 
 </div>
 
@@ -85,22 +84,28 @@ const vikrant = {
 
 <div align="center">
 
-<a href="https://github.com/vikrantwiz02">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vikrantwiz02&show_icons=true&theme=github_dark&hide_border=true&count_private=true&rank_icon=github&include_all_commits=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="GitHub Stats" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=vikrantwiz02&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=vikrantwiz02&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vikrantwiz02&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="GitHub Stats" />
+</picture>
+&nbsp;
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=vikrantwiz02&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=vikrantwiz02&layout=compact&theme=default&hide_border=true&langs_count=8" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikrantwiz02&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" alt="Top Languages" />
-</a>
+</picture>
 
-<br/>
+<br/><br/>
 
 <a href="https://github.com/vikrantwiz02">
   <img src="https://streak-stats.demolab.com?user=vikrantwiz02&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="GitHub Streak" />
 </a>
 
-<br/>
+<br/><br/>
 
-<!-- Contribution Graph -->
 <a href="https://github.com/vikrantwiz02">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vikrantwiz02&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&area_color=58a6ff" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vikrantwiz02&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&area_color=58a6ff" alt="Contribution Graph" width="95%" />
 </a>
 
 </div>
@@ -145,10 +150,10 @@ graph LR
 
 I'm always open to interesting conversations through code, collaboration, or coffee (virtual works too).
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vikrantwiz02)
-[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vikrantkrd@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vikrantwiz02)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://www.vikrantkumar.site/)
+<a href="https://linkedin.com/in/vikrantwiz02"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:vikrantkrd@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://github.com/vikrantwiz02"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://www.vikrantkumar.site/"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
 
 ---
 
