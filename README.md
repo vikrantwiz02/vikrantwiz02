@@ -84,17 +84,8 @@ const vikrant = {
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=vikrantwiz02&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=vikrantwiz02&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vikrantwiz02&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="GitHub Stats" />
-</picture>
-&nbsp;
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=vikrantwiz02&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=vikrantwiz02&layout=compact&theme=default&hide_border=true&langs_count=8" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikrantwiz02&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" alt="Top Languages" />
-</picture>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=vikrantwiz02&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="GitHub Stats" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikrantwiz02&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" alt="Top Languages" />
 
 <br/><br/>
 
@@ -130,10 +121,10 @@ const vikrant = {
 ```mermaid
 %%{init: {'theme': 'base', 'themeVariables': { 'primaryColor':'#161b22', 'primaryBorderColor':'#58a6ff', 'lineColor':'#58a6ff', 'tertiaryColor':'#161b22', 'tertiaryTextColor':'#c9d1d9', 'fontSize':'14px', 'fontFamily': 'Segoe UI'}}}%%
 graph LR
-    A["Scalable\nArchitecture"] --> B["Building\nWhat Matters"]
-    C["Cloud &\nDevOps"] --> B
-    D["Full-Stack\nDevelopment"] --> B
-    E["Open Source\nContributions"] --> B
+    A["Scalable<br/>Architecture"] --> B["Building<br/>What Matters"]
+    C["Cloud &<br/>DevOps"] --> B
+    D["Full-Stack<br/>Development"] --> B
+    E["Open Source<br/>Contributions"] --> B
     
     style A fill:#161b22,stroke:#58a6ff,stroke-width:2px,color:#c9d1d9
     style C fill:#161b22,stroke:#58a6ff,stroke-width:2px,color:#c9d1d9
