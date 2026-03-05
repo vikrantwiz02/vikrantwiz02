@@ -1,299 +1,157 @@
-<div align="center" style="background: linear-gradient(135deg, #1f6feb 0%, #0d47a1 100%); padding: 40px 20px; border-radius: 12px; margin-bottom: 20px;">
+<div align="center">
 
-# VIKRANT KUMAR
-<h2 style="font-size: 28px; margin: 15px 0; color: #fff; font-weight: 600; letter-spacing: 1px;">
-  <span style="font-family: 'Monaco', 'Courier New', monospace; color: #00d9ff;">{ </span>Full-Stack Developer<span style="font-family: 'Monaco', 'Courier New', monospace; color: #00d9ff;"> }</span>
-</h2>
+<!-- Dynamic Typing Header -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Hey+%F0%9F%91%8B+I'm+Vikrant+Kumar;Full-Stack+Developer+%7C+Cloud+Enthusiast" alt="Typing SVG" /></a>
 
-<p style="font-size: 18px; color: #ffffff; font-weight: 500; margin: 20px 0; letter-spacing: 0.5px;">
- 💻 Full-Stack Architect
-</p>
+<br/>
 
-<div style="background: rgba(255,255,255,0.1); padding: 15px 30px; border-radius: 8px; border-left: 4px solid #00d9ff; margin: 20px 0; backdrop-filter: blur(10px);">
-  <p style="font-size: 16px; color: #e3f2fd; margin: 0; font-style: italic; font-weight: 500;">
-    "Building elegant solutions that transform challenges into opportunities"
-  </p>
-</div>
-
-<p style="font-size: 13px; color: #b3e5fc; margin: 15px 0;">
-  <img src="https://komarev.com/ghpvc/?username=vikrantwiz02&label=Profile%20views&color=00d9ff&style=flat" alt="Profile Views" />
-</p>
+<img src="https://komarev.com/ghpvc/?username=vikrantwiz02&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
+&nbsp;&nbsp;
+[![LinkedIn](https://img.shields.io/badge/-vikrantwiz02-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/vikrantwiz02)
+[![Portfolio](https://img.shields.io/badge/-vikrantkumar.site-000?style=flat-square&logo=vercel&logoColor=white)](https://www.vikrantkumar.site/)
+[![Email](https://img.shields.io/badge/-vikrantkrd@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:vikrantkrd@gmail.com)
 
 </div>
 
 ---
 
-## 👨‍💻 Professional Profile
+## About Me
 
-<table>
-<tr>
-<td width="45%" align="center">
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="85%" style="border-radius: 12px; border: 3px solid #1f6feb;" />
-</td>
-<td width="55%">
+I'm a full-stack developer at **IIITDM Jabalpur, India**, focused on building products that ship — not just prototypes that demo well. I work across the stack: from crafting responsive UIs in React to designing scalable backend services and deploying them on cloud infrastructure.
 
-### About Me
+What drives me is turning messy, real-world problems into clean, working software. I care about writing code that other engineers can read, maintain, and trust in production.
 
-I'm a **full-stack developer** specializing in building scalable, high-impact solutions. With expertise spanning frontend, backend, and DevOps, I create products that solve real-world problems.
-
-#### 🎯 Focus Areas
-- ✦ Full-Stack Web & Mobile Development  
-- ✦ Cloud Infrastructure & DevOps
-- ✦ Scalable System Architecture
-
-#### 📍 Additional Info
-- **Based in:** IIITDM Jabalpur, India
-- **Experience:** Building production-grade applications
-
-</td>
-</tr>
-</table>
+```typescript
+const vikrant = {
+    location: "IIITDM Jabalpur, India",
+    roles: ["Full-Stack Developer", "Cloud Enthusiast", "Open Source Contributor"],
+    currentlyBuilding: ["Saviour 2.0", "HydroTech", "ICAORFDI-2026"],
+    techStack: {
+        frontend:  ["React", "Next.js", "React Native", "TypeScript", "Tailwind CSS"],
+        backend:   ["Node.js", "Express.js", "Python", "GraphQL"],
+        databases: ["PostgreSQL", "MongoDB", "Firebase"],
+        devops:    ["Docker", "AWS", "CI/CD", "GitHub Actions"],
+    },
+    philosophy: "Ship fast, iterate faster, never stop learning.",
+};
+```
 
 ---
 
----
+## Tech Stack
 
 <div align="center">
 
-## 📊 Professional Snapshot
+#### Languages & Frameworks
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+#### Databases & Cloud
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
 </div>
 
+---
+
+## Featured Projects
+
+| # | Project | Stack | What it does | Status |
+|:-:|---------|-------|--------------|:------:|
+| 1 | **[ORSI-2025 & ICAORFDI-2026](https://github.com/vikrantwiz02?tab=repositories)** | `React` `TypeScript` | Conference platform for international OR research in finance, defence & industry | 🟢 Active |
+| 2 | **[Saviour](https://github.com/vikrantwiz02?tab=repositories)** | `React Native` `Expo` `Firebase` `TypeScript` | Mobile community safety app — real-time alerts & location-based emergency services | 🟢 Active |
+| 3 | **[Saviour 2.0](https://github.com/vikrantwiz02?tab=repositories)** | `React` `Node.js` `Firebase` `TypeScript` | Web counterpart of Saviour with expanded features and admin dashboard | 🟢 Active |
+| 4 | **[IIITDMJ Website](https://github.com/vikrantwiz02?tab=repositories)** | `React` `Tailwind` `Firebase` | Institutional website with CMS and student portal integration | 🟢 Active |
+| 5 | **[CFD Simulator](https://github.com/vikrantwiz02?tab=repositories)** | `Python` `NumPy` `Matplotlib` | Computational fluid dynamics simulation engine with interactive visualizations | 🔬 Research |
+| 6 | **[HydroTech](https://github.com/vikrantwiz02?tab=repositories)** | `Python` `React` `Node.js` `MongoDB` | AI-powered groundwater analytics platform for sustainable water management | 🟢 Active |
+
+> **Explore all projects:** [GitHub Repositories](https://github.com/vikrantwiz02?tab=repositories) · [Live Portfolio](https://www.vikrantkumar.site/)
+
+---
+
+## GitHub Analytics
+
+<div align="center">
+
+<a href="https://github.com/vikrantwiz02">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vikrantwiz02&show_icons=true&theme=github_dark&hide_border=true&count_private=true&rank_icon=github&include_all_commits=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikrantwiz02&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" alt="Top Languages" />
+</a>
+
+<br/>
+
+<a href="https://github.com/vikrantwiz02">
+  <img src="https://streak-stats.demolab.com?user=vikrantwiz02&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="GitHub Streak" />
+</a>
+
+<br/>
+
+<!-- Contribution Graph -->
+<a href="https://github.com/vikrantwiz02">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vikrantwiz02&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&area_color=58a6ff" alt="Contribution Graph" />
+</a>
+
+</div>
+
+---
+
+## Certifications
+
+<div align="center">
+
+| Certification | Issuer | Year |
+|:---:|:---:|:---:|
+| 🏅 **Google IT Support Professional** | Google Career Certificates | 2024 |
+| ☁️ **AWS Cloud Practitioner** | Amazon Web Services | 2024 |
+
+</div>
+
+---
+
+## What I'm Focused On
+
 ```mermaid
-%%{init: {'flowchart': {'htmlLabels': true}, 'theme': 'base', 'themeVariables': { 'primaryColor':'#e1f5ff', 'primaryBorderColor':'#1f6feb', 'lineColor':'#1f6feb', 'tertiaryColor':'#1f6feb', 'tertiaryTextColor':'#fff', 'fontSize':'16px', 'fontFamily': 'Segoe UI'}}}%%
+%%{init: {'theme': 'base', 'themeVariables': { 'primaryColor':'#161b22', 'primaryBorderColor':'#58a6ff', 'lineColor':'#58a6ff', 'tertiaryColor':'#161b22', 'tertiaryTextColor':'#c9d1d9', 'fontSize':'14px', 'fontFamily': 'Segoe UI'}}}%%
 graph LR
-    A["<b>10+</b><br/>Projects"] --> E["<b>EXPERT</b><br/><b>Developer</b>"]
-    B["<b>10+</b><br/>Technologies"] --> E
-    C["<b>Full-Stack</b><br/>Expertise"] --> E
-    D["<b>Cloud &</b><br/><b>DevOps</b>"] --> E
+    A["Scalable\nArchitecture"] --> B["Building\nWhat Matters"]
+    C["Cloud &\nDevOps"] --> B
+    D["Full-Stack\nDevelopment"] --> B
+    E["Open Source\nContributions"] --> B
     
-    style A fill:#e1f5ff,stroke:#1f6feb,stroke-width:2px,color:#1f6feb
-    style B fill:#e1f5ff,stroke:#1f6feb,stroke-width:2px,color:#1f6feb
-    style C fill:#e1f5ff,stroke:#1f6feb,stroke-width:2px,color:#1f6feb
-    style D fill:#e1f5ff,stroke:#1f6feb,stroke-width:2px,color:#1f6feb
-    style E fill:#1f6feb,stroke:#1f6feb,stroke-width:3px,color:#fff
+    style A fill:#161b22,stroke:#58a6ff,stroke-width:2px,color:#c9d1d9
+    style C fill:#161b22,stroke:#58a6ff,stroke-width:2px,color:#c9d1d9
+    style D fill:#161b22,stroke:#58a6ff,stroke-width:2px,color:#c9d1d9
+    style E fill:#161b22,stroke:#58a6ff,stroke-width:2px,color:#c9d1d9
+    style B fill:#58a6ff,stroke:#58a6ff,stroke-width:3px,color:#0d1117
 ```
 
 ---
 
----
-
 <div align="center">
 
-## 🛠️ Technical Expertise
+### Let's Build Something Together
 
-### Frontend Development
-
-| **React** | **Next.js** | **React Native** | **Tailwind CSS** | **TypeScript** |
-|:---:|:---:|:---:|:---:|:---:|
-| ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white) | ![React Native](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) | ![Tailwind](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) | ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) |
-
-### Backend Development
-
-| **Node.js** | **Express.js** | **Python** | **GraphQL** | **PostgreSQL** |
-|:---:|:---:|:---:|:---:|:---:|
-| ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) | ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) |
-
-### Databases & Cloud
-
-| **MongoDB** | **Firebase** | **AWS** | **Docker** | **GitHub** |
-|:---:|:---:|:---:|:---:|:---:|
-| ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) | ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black) | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) | ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) |
-
-</div>
-
----
-
----
-
-<div align="center">
-
-## 💼 Core Competencies
-
-</div>
-
-```mermaid
-%%{init: {'flowchart': {'htmlLabels': true}, 'theme': 'base', 'themeVariables': { 'primaryColor':'#e1f5ff', 'primaryBorderColor':'#1f6feb', 'lineColor':'#1f6feb', 'tertiaryColor':'#1f6feb', 'tertiaryTextColor':'#fff', 'fontSize':'15px', 'fontFamily': 'Segoe UI'}}}%%
-graph TB
-    subgraph FRONTEND["<b>Frontend</b>"]
-        F1["React Architecture"]
-        F2["State Management"]
-        F3["Performance Optimization"]
-    end
-    
-    subgraph BACKEND["<b>Backend</b>"]
-        B1["RESTful & GraphQL APIs"]
-        B2["Database Design"]
-        B3["Auth & Security"]
-    end
-    
-    subgraph DEVOPS["<b>DevOps</b>"]
-        D1["Docker & Containers"]
-        D2["CI/CD Pipelines"]
-        D3["AWS Services"]
-    end
-    
-    subgraph CORE["<b>Core Skills</b>"]
-        E1["System Design"]
-        E2["Scalable Solutions"]
-        E3["Problem Solving"]
-    end
-    
-    FRONTEND --> CORE
-    BACKEND --> CORE
-    DEVOPS --> CORE
-    
-    style FRONTEND fill:#e1f5ff,stroke:#1f6feb,stroke-width:2px,color:#1f6feb
-    style BACKEND fill:#e1f5ff,stroke:#1f6feb,stroke-width:2px,color:#1f6feb
-    style DEVOPS fill:#e1f5ff,stroke:#1f6feb,stroke-width:2px,color:#1f6feb
-    style CORE fill:#1f6feb,stroke:#1f6feb,stroke-width:3px,color:#fff
-    style F1 fill:#fff,color:#2d333b
-    style F2 fill:#fff,color:#2d333b
-    style F3 fill:#fff,color:#2d333b
-    style B1 fill:#fff,color:#2d333b
-    style B2 fill:#fff,color:#2d333b
-    style B3 fill:#fff,color:#2d333b
-    style D1 fill:#fff,color:#2d333b
-    style D2 fill:#fff,color:#2d333b
-    style D3 fill:#fff,color:#2d333b
-    style E1 fill:#1f6feb,color:#fff
-    style E2 fill:#1f6feb,color:#fff
-    style E3 fill:#1f6feb,color:#fff
-```
-
----
-
----
-
-<div align="center">
-
-## 🚀 Featured Projects
-
-</div>
-
-| S.No. | **Project** | **Tech Stack** | **Description** | **Status** |
-|---|---|---|---|---|
-| 1 | **ORSI-2025 & ICAORFDI-2026** | `React` `Typescript`| International Conference on Applications of Operations Research in Finance, Defence, and Industry | ✨ Active |
-| 2 | **Saviour** | `React Native` `Expo` `Firebase` `Typescript` | Community safety platform with real-time alerts and location-based emergency services (App based) | ✨ Active |
-| 3 | **Saviour 2.0** | `React` `Node.js` `Firebase` `Typescript` | Community safety platform with real-time alerts and location-based emergency services (Web based) | ✨ Active |
-| 4 | **IIITDMJ Website** | `React` `Tailwind` `Firebase` | Institutional website with dynamic content management and student portal integration | ✨ Active |
-| 5 | **CFD Simulator** | `Python` `NumPy` `Matplotlib` | Computational fluid dynamics simulation engine with visualization tools | 📊 Research |
-| 6 | **HydroTech** | `Python` `React` `Node.js` `MongoDB` | AI-Powered Groundwater Analytics | ✨ Active |
-
-**📌 View Code & Live Demos:** [GitHub Repository](https://github.com/vikrantwiz02?tab=repositories) | [Portfolio](https://www.vikrantkumar.site/)
-
----
-
-## 📈 GitHub Analytics
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vikrantwiz02&show_icons=true&theme=default&hide_border=true&count_private=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vikrantwiz02&theme=default&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vikrantwiz02&layout=compact&theme=default&hide_border=true)
-
-</div>
-
----
-
-## 🏆 Professional Certifications
-
-<div align="center">
-
-<table style="border-collapse: collapse; width: 100%; max-width: 600px; margin: 0 auto; background: linear-gradient(135deg, #f8f9fa 0%, #ffffff 100%); border-radius: 12px; overflow: hidden; box-shadow: 0 4px 6px rgba(0,0,0,0.07);">
-  <tr>
-    <td style="padding: 25px; text-align: center; border-right: 1px solid #e5e7eb;">
-      <div style="font-size: 32px; margin-bottom: 12px;">🏅</div>
-      <strong style="color: #1f6feb; font-size: 16px; display: block;">Google IT Support Professional</strong>
-      <p style="color: #57606a; font-size: 13px; margin: 8px 0 4px 0;">Google Career Certificates</p>
-      <p style="color: #2d333b; font-size: 12px; margin: 4px 0 0 0;"><em>2024</em></p>
-    </td>
-    <td style="padding: 25px; text-align: center;">
-      <div style="font-size: 32px; margin-bottom: 12px;">☁️</div>
-      <strong style="color: #1f6feb; font-size: 16px; display: block;">AWS Cloud Practitioner</strong>
-      <p style="color: #57606a; font-size: 13px; margin: 8px 0 4px 0;">Amazon Web Services</p>
-      <p style="color: #2d333b; font-size: 12px; margin: 4px 0 0 0;"><em>2024</em></p>
-    </td>
-  </tr>
-</table>
-
-</div>
-
----
-
-## 💬 Let's Collaborate
-
-<p style="font-size: 16px; color: #2d333b; line-height: 1.8; margin-bottom: 20px;">
-I'm passionate about solving challenging problems and building impactful products. Whether you're looking to discuss innovative ideas, need technical expertise, or want to explore collaboration opportunities, I'd love to connect.
-</p>
-
-<div align="center">
-
-**Reach out through:**
+I'm always open to interesting conversations through code, collaboration, or coffee (virtual works too).
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vikrantwiz02)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vikrantkrd@gmail.com)
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vikrantkrd@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vikrantwiz02)
-[![Portfolio](https://img.shields.io/badge/Portfolio-1f6feb?style=for-the-badge&logo=About.me&logoColor=white)](https://www.vikrantkumar.site/)
-
-</div>
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://www.vikrantkumar.site/)
 
 ---
 
----
-
-## 🎯 Current Focus
-
-```mermaid
-%%{init: {'flowchart': {'htmlLabels': true}, 'theme': 'base', 'themeVariables': { 'primaryColor':'#e1f5ff', 'primaryBorderColor':'#1f6feb', 'lineColor':'#1f6feb', 'tertiaryColor':'#1f6feb', 'tertiaryTextColor':'#fff', 'fontSize':'15px', 'fontFamily': 'Segoe UI'}}}%%
-graph LR
-    A["<b>Scalable<br/>Solutions</b>"] -->|Production Ready| B["<b>Current<br/>Focus</b>"]
-    C["<b>DevOps &<br/>Cloud</b>"] -->|CI/CD, Docker| B
-    D["<b>Full-Stack<br/>Development</b>"] -->|Modern Tech| B
-    E["<b>Open<br/>Source</b>"] -->|Community| B
-    
-    B --> F["<b>Impact<br/>Driven</b>"]
-    
-    style A fill:#e1f5ff,stroke:#1f6feb,stroke-width:2px,color:#1f6feb
-    style C fill:#e1f5ff,stroke:#1f6feb,stroke-width:2px,color:#1f6feb
-    style D fill:#e1f5ff,stroke:#1f6feb,stroke-width:2px,color:#1f6feb
-    style E fill:#e1f5ff,stroke:#1f6feb,stroke-width:2px,color:#1f6feb
-    style B fill:#1f6feb,stroke:#1f6feb,stroke-width:3px,color:#fff
-    style F fill:#1f6feb,stroke:#1f6feb,stroke-width:3px,color:#fff
-```
-
----
-
-<div align="center" style="background: linear-gradient(135deg, #1f6feb 0%, #0d47a1 100%); padding: 50px 30px; border-radius: 12px; margin-top: 40px;">
-
-## ✨ Let's Build Something Extraordinary
-
-<p style="font-size: 16px; color: #e3f2fd; margin: 20px 0; font-style: italic; font-weight: 500;">
-  "Great things never came from comfort zones. Let's create impact together."
-</p>
-
-<div style="margin: 30px 0;">
-
-### 📧 Get in Touch
-
-[![Email](https://img.shields.io/badge/Email-vikrantkrd@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vikrantkrd@gmail.com)
-
-</div>
-
-<div style="margin: 30px 0;">
-
-### 💼 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-vikrantwiz02-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vikrantwiz02)
-
-</div>
-
-<div style="border-top: 2px solid rgba(255,255,255,0.2); padding-top: 20px; margin-top: 30px;">
-  <p style="font-size: 12px; color: #90caf9; margin: 5px 0;">
-    © 2026 Vikrant Kumar
-  </p>
-</div>
+<sub>© 2026 Vikrant Kumar — Built with purpose, shipped with care.</sub>
 
 </div>
