@@ -65,18 +65,29 @@ const vikrant = {
 
 ---
 
-## Featured Projects
+## Featured Work & Open Source
 
 | # | Project | Stack | What it does | Status |
 |:-:|---------|-------|--------------|:------:|
-| 1 | **[ORSI-2025 & ICAORFDI-2026](https://github.com/vikrantwiz02?tab=repositories)** | `React` `TypeScript` | Conference platform for international OR research in finance, defence & industry | 🟢 Active |
-| 2 | **[Saviour](https://github.com/vikrantwiz02?tab=repositories)** | `React Native` `Expo` `Firebase` `TypeScript` | Mobile community safety app — real-time alerts & location-based emergency services | 🟢 Active |
-| 3 | **[Saviour 2.0](https://github.com/vikrantwiz02?tab=repositories)** | `React` `Node.js` `Firebase` `TypeScript` | Web counterpart of Saviour with expanded features and admin dashboard | 🟢 Active |
-| 4 | **[IIITDMJ Website](https://github.com/vikrantwiz02?tab=repositories)** | `React` `Tailwind` `Firebase` | Institutional website with CMS and student portal integration | 🟢 Active |
-| 5 | **[CFD Simulator](https://github.com/vikrantwiz02?tab=repositories)** | `Python` `NumPy` `Matplotlib` | Computational fluid dynamics simulation engine with interactive visualizations | 🔬 Research |
-| 6 | **[HydroTech](https://github.com/vikrantwiz02?tab=repositories)** | `Python` `React` `Node.js` `MongoDB` | AI-powered groundwater analytics platform for sustainable water management | 🟢 Active |
+| 1 | **Fusion ERP** | `React` `Django` `PostgreSQL` | Lead Full-Stack Dev for institutional ERP. Architected core academic modules and coordinated a cross-functional engineering team. | 🟢 Active |
+| 2 | **McpGuardian** | `Node.js` `Security` | Production-grade open-source API gateway featuring custom rate-limiters, circuit breakers, and payload inspection. | 🟢 v1.0.0 |
+| 3 | **ICAORFDI-2026** | `React` `TypeScript` | Conference platform for international OR research. Built for sub-2 second load times and high-traffic SEO. | 🟢 Active |
+| 4 | **Saviour** | `React Native` `Firebase` | Mobile community safety app — real-time alerts & location-based emergency services. | 🟢 Active |
 
 > **Explore all projects:** [GitHub Repositories](https://github.com/vikrantwiz02?tab=repositories) · [Live Portfolio](https://www.vikrantkumar.site/)
+
+### Active Open Source Involvement
+
+Merged contributions to **[medic/cht-core](https://github.com/medic/cht-core)** — the open-source platform powering community health worker programs in 20+ countries:
+
+| PR | Type | Contribution |
+|:--:|:----:|--------------|
+| [#10921](https://github.com/medic/cht-core/pull/10921) | `feat` | Added UI extension support to the legacy header menu, enabling third-party deployments to inject custom menu actions without forking core. |
+| [#10837](https://github.com/medic/cht-core/pull/10837) | `security` | Integrated **zizmor** static analysis into CI to catch GitHub Actions supply-chain and injection vulnerabilities across every workflow. |
+| [#10814](https://github.com/medic/cht-core/pull/10814) | `feat` | Implemented support for invoking **extension-libs from form expressions**, unlocking reusable business logic inside XForm-based clinical workflows. |
+| [#10804](https://github.com/medic/cht-core/pull/10804) | `feat` | Surfaced **child contact counts in group headers** across the contacts UI — a long-standing UX ask from frontline health programs. |
+| [#10795](https://github.com/medic/cht-core/pull/10795) | `security` | Closed a privilege-escalation gap by **revoking user permissions automatically when a role is deleted**. |
+| [#10785](https://github.com/medic/cht-core/pull/10785) | `feat` | Extended the sidebar menu with `app_drawer_tab` UI extensions, generalizing the extension API across navigation surfaces. |
 
 ---
 
