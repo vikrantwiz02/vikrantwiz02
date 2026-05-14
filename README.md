@@ -4,8 +4,12 @@
 
 <br/>
 
+<p><em>Full-stack engineer at IIITDM Jabalpur. I ship React/Django systems in production at my institute, and contribute features &amp; security fixes to <a href="https://github.com/medic/cht-core">medic/cht-core</a> — deployed in 20+ countries.</em></p>
+
 <img src="https://komarev.com/ghpvc/?username=vikrantwiz02&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
-&nbsp;&nbsp;
+&nbsp;
+<img src="https://img.shields.io/badge/Open%20to-SDE%20Internships%20%C2%B7%20OSS%20Collabs-2ea043?style=flat-square" alt="Open to" />
+&nbsp;
 <a href="https://linkedin.com/in/vikrantwiz02"><img src="https://img.shields.io/badge/-vikrantwiz02-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://www.vikrantkumar.site/"><img src="https://img.shields.io/badge/-vikrantkumar.site-000?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" /></a>
 <a href="mailto:vikrantkrd@gmail.com"><img src="https://img.shields.io/badge/-vikrantkrd@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
@@ -24,10 +28,10 @@ What drives me is turning messy, real-world problems into clean, working softwar
 const vikrant = {
     location: "IIITDM Jabalpur, India",
     roles: ["Full-Stack Developer", "Cloud Enthusiast", "Open Source Contributor"],
-    currentlyBuilding: ["Saviour 2.0", "HydroTech", "ICAORFDI-2026"],
+    currentlyBuilding: ["Fusion ERP", "McpGuardian", "ICAORFDI-2026"],
     techStack: {
         frontend:  ["React", "Next.js", "React Native", "TypeScript", "Tailwind CSS"],
-        backend:   ["Node.js", "Express.js", "Python", "GraphQL"],
+        backend:   ["Node.js", "Express.js", "Python", "Django", "GraphQL"],
         databases: ["PostgreSQL", "MongoDB", "Firebase"],
         devops:    ["Docker", "AWS", "CI/CD", "GitHub Actions"],
     },
@@ -50,6 +54,7 @@ const vikrant = {
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
@@ -67,18 +72,19 @@ const vikrant = {
 
 ## Featured Work & Open Source
 
-| # | Project | Stack | What it does | Status |
-|:-:|---------|-------|--------------|:------:|
-| 1 | **Fusion ERP** | `React` `Django` `PostgreSQL` | Lead Full-Stack Dev for institutional ERP. Architected core academic modules and coordinated a cross-functional engineering team. | 🟢 Active |
-| 2 | **McpGuardian** | `Node.js` `Security` | Production-grade open-source API gateway featuring custom rate-limiters, circuit breakers, and payload inspection. | 🟢 v1.0.0 |
-| 3 | **ICAORFDI-2026** | `React` `TypeScript` | Conference platform for international OR research. Built for sub-2 second load times and high-traffic SEO. | 🟢 Active |
-| 4 | **Saviour** | `React Native` `Firebase` | Mobile community safety app — real-time alerts & location-based emergency services. | 🟢 Active |
+| # | Project | Stack | What it does · Impact | Status |
+|:-:|---------|-------|------------------------|:------:|
+| 1 | **[Fusion ERP](https://github.com/[org]/fusion-erp)** | `React` `Django` `PostgreSQL` | Lead Full-Stack Dev for institutional ERP. Architected core academic modules and coordinated a cross-functional engineering team. · *Serves [N]+ students across [M] departments.* | 🟢 Active |
+| 2 | **[McpGuardian](https://github.com/vikrantwiz02/mcpguardian)** | `Node.js` `Security` | Production-grade open-source API gateway featuring custom rate-limiters, circuit breakers, and payload inspection. · *[X] downloads · [Y] ⭐* | 🟢 v1.0.0 |
+| 3 | **[ICAORFDI-2026](https://github.com/vikrantwiz02/icaorfdi-2026)** · [Live ↗](https://icaorfdi2026.iiitdmj.ac.in) | `React` `TypeScript` | Conference platform for international OR research. · *Sub-2s LCP, Lighthouse 95+, [N]+ registrations.* | 🟢 Active |
+| 4 | **[Saviour](https://github.com/vikrantwiz02/saviour)** | `React Native` `Firebase` | Mobile community safety app — real-time alerts & location-based emergency services. · *[N]+ active users · [M]+ alerts handled.* | 🟢 Active |
 
-> **Explore all projects:** [GitHub Repositories](https://github.com/vikrantwiz02?tab=repositories) · [Live Portfolio](https://www.vikrantkumar.site/)
+> 👉 **Start with my pinned repos above** — they're the ones I'm proudest of.
+> **Explore all:** [GitHub Repositories](https://github.com/vikrantwiz02?tab=repositories) · [Live Portfolio](https://www.vikrantkumar.site/)
 
 ### Active Open Source Involvement
 
-Merged contributions to **[medic/cht-core](https://github.com/medic/cht-core)** — the open-source platform powering community health worker programs in 20+ countries:
+Merged contributions to **[medic/cht-core](https://github.com/medic/cht-core)** — the open-source platform powering community health worker programs in 20+ countries, used by WHO partners and NGOs worldwide:
 
 | PR | Type | Contribution |
 |:--:|:----:|--------------|
@@ -109,35 +115,24 @@ Merged contributions to **[medic/cht-core](https://github.com/medic/cht-core)** 
 
 ---
 
-## Certifications
+## Recently Shipped
 
-<div align="center">
-
-| Certification | Issuer | Year |
-|:---:|:---:|:---:|
-| 🏅 **Google IT Support Professional** | Google Career Certificates | 2024 |
-| ☁️ **AWS Cloud Practitioner** | Amazon Web Services | 2024 |
-
-</div>
+- **May 2026** — Merged UI-extension framework PRs into [medic/cht-core](https://github.com/medic/cht-core) ([#10921](https://github.com/medic/cht-core/pull/10921), [#10785](https://github.com/medic/cht-core/pull/10785))
+- **Apr 2026** — Hardened CI with **zizmor** static analysis for GitHub Actions ([#10837](https://github.com/medic/cht-core/pull/10837))
+- **Apr 2026** — Shipped extension-libs from XForms to cht-core ([#10814](https://github.com/medic/cht-core/pull/10814))
+- **Q1 2026** — Released **McpGuardian v1.0.0** — rate-limiters, circuit breakers, payload inspection
+- **Q1 2026** — Architected core academic modules for **Fusion ERP**, now serving [N]+ users
+- **2025** — Built **ICAORFDI-2026** conference platform (Lighthouse 95+, sub-2s LCP)
 
 ---
 
-## What I'm Focused On
+## Certifications & Credentials
 
-```mermaid
-%%{init: {'theme': 'base', 'themeVariables': { 'primaryColor':'#161b22', 'primaryBorderColor':'#58a6ff', 'lineColor':'#58a6ff', 'tertiaryColor':'#161b22', 'tertiaryTextColor':'#c9d1d9', 'fontSize':'14px', 'fontFamily': 'Segoe UI'}}}%%
-graph LR
-    A["Scalable<br/>Architecture"] --> B["Building<br/>What Matters"]
-    C["Cloud &<br/>DevOps"] --> B
-    D["Full-Stack<br/>Development"] --> B
-    E["Open Source<br/>Contributions"] --> B
-    
-    style A fill:#161b22,stroke:#58a6ff,stroke-width:2px,color:#c9d1d9
-    style C fill:#161b22,stroke:#58a6ff,stroke-width:2px,color:#c9d1d9
-    style D fill:#161b22,stroke:#58a6ff,stroke-width:2px,color:#c9d1d9
-    style E fill:#161b22,stroke:#58a6ff,stroke-width:2px,color:#c9d1d9
-    style B fill:#58a6ff,stroke:#58a6ff,stroke-width:3px,color:#0d1117
-```
+<div align="center">
+
+🏅 **Google IT Support Professional** *(Google, 2024)* &nbsp;·&nbsp; ☁️ **AWS Cloud Practitioner** *(AWS, 2024)*
+
+</div>
 
 ---
 
@@ -145,15 +140,11 @@ graph LR
 
 ### Let's Build Something Together
 
-I'm always open to interesting conversations through code, collaboration, or coffee (virtual works too).
+Open to SDE internships, open-source collaboration, and interesting problems. Code, coffee, or async chat — all work.
 
 <a href="https://linkedin.com/in/vikrantwiz02"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:vikrantkrd@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 <a href="https://github.com/vikrantwiz02"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 <a href="https://www.vikrantkumar.site/"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-
----
-
-<sub>© 2026 Vikrant Kumar — Built with purpose, shipped with care.</sub>
 
 </div>
