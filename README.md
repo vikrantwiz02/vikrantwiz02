@@ -74,9 +74,9 @@ const vikrant = {
 
 | # | Project | Stack | What it does · Impact | Status |
 |:-:|---------|-------|------------------------|:------:|
-| 1 | **[Fusion ERP](https://github.com/FusionIIIT)** · [Live ↗](https:fusion.iiitdmj.ac.in)  | `React` `Django` `PostgreSQL` | Lead Full-Stack Dev for institutional ERP. Architected core academic modules and coordinated a cross-functional engineering team. · *Serves [N]+ students across [M] departments.* | 🟢 Active |
-| 2 | **[McpGuardian](https://github.com/vikrantwiz02/mcp-guardian)** · [Live ↗](https://www.npmjs.com/package/mcp-warden)  | `Node.js` `Security` | Production-grade open-source API gateway featuring custom rate-limiters, circuit breakers, and payload inspection. · *[X] downloads · [Y] ⭐* | 🟢 v1.0.0 |
-| 3 | **[ICAORFDI-2026](https://github.com/vikrantwiz02/ORSI-Conference-2025)** · [Live ↗](https:orsiconference.org) | `React` `TypeScript` | Conference platform for international OR research. · *Sub-2s LCP, Lighthouse 95+, [N]+ registrations.* | 🟢 Active |
+| 1 | **[Fusion ERP](https://github.com/FusionIIIT)** · [Live ↗](https://fusion.iiitdmj.ac.in)  | `React` `Django` `PostgreSQL` | Lead Full-Stack Dev for institutional ERP. Architected core academic modules and coordinated a cross-functional engineering team. · *Serves [N]+ students across [M] departments.* | 🟢 Active |
+| 2 | **[McpGuardian](https://github.com/vikrantwiz02/mcp-warden)** · [Live ↗](https://www.npmjs.com/package/mcp-warden)  | `Node.js` `Security` | Production-grade open-source API gateway featuring custom rate-limiters, circuit breakers, and payload inspection. · *[X] downloads · [Y] ⭐* | 🟢 v1.0.0 |
+| 3 | **[ICAORFDI-2026](https://github.com/vikrantwiz02/ORSI-Conference-2025)** · [Live ↗](https://orsiconference.org) | `React` `TypeScript` | Conference platform for international OR research. · *Sub-2s LCP, Lighthouse 95+, [N]+ registrations.* | 🟢 Active |
 | 4 | **[Saviour](https://github.com/vikrantwiz02/Saviour)** · [Demo ↗](https://www.linkedin.com/feed/update/urn:li:activity:7357232838053654529/) | `React Native` `Firebase` | Mobile community safety app — real-time alerts & location-based emergency services. · *[N]+ active users · [M]+ alerts handled.* | 🟢 Active |
 
 > 👉 **Start with my pinned repos above** — they're the ones I'm proudest of.
