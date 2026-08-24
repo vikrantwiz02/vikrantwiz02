@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="580" height="240" viewBox="0 0 580 240" role="img" aria-labelledby="title desc">
+  <title id="title">GridShift</title>
+  <desc id="desc">Renewable-aware compute scheduling with FastAPI, PostgreSQL, React, and SciPy.</desc>
+  <defs>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#34d399"/><stop offset="1" stop-color="#fbbf24"/></linearGradient>
+    <radialGradient id="glow" cx="0" cy="0" r="1" gradientTransform="translate(485 105) rotate(135) scale(190)"><stop stop-color="#f59e0b" stop-opacity="0.2"/><stop offset="1" stop-color="#f59e0b" stop-opacity="0"/></radialGradient>
+  </defs>
+  <rect x="1" y="1" width="578" height="238" rx="20" fill="#0b0911" stroke="#ffffff" stroke-opacity="0.12"/>
+  <rect x="1" y="1" width="578" height="4" rx="2" fill="url(#accent)"/>
+  <rect x="1" y="1" width="578" height="238" rx="20" fill="url(#glow)"/>
+  <text x="28" y="39" fill="#6ee7b7" font-family="Arial, sans-serif" font-size="10" font-weight="700" letter-spacing="1.7">02 / OPTIMIZATION</text>
+  <text x="28" y="82" fill="#ffffff" font-family="Arial, sans-serif" font-size="29" font-weight="900" letter-spacing="1">GRIDSHIFT</text>
+  <text x="28" y="108" fill="#bbb5c8" font-family="Arial, sans-serif" font-size="14">Renewable-aware compute scheduling.</text>
+  <text x="28" y="130" fill="#817b8f" font-family="Arial, sans-serif" font-size="12">Forecasts · linear programming · tamper-evident records</text>
+  <g transform="translate(28 156)" font-family="Arial, sans-serif" font-size="10" font-weight="700">
+    <rect width="58" height="24" rx="7" fill="#34d399" fill-opacity="0.1" stroke="#34d399" stroke-opacity="0.3"/><text x="9" y="16" fill="#a7f3d0">PYTHON</text>
+    <rect x="66" width="62" height="24" rx="7" fill="#34d399" fill-opacity="0.1" stroke="#34d399" stroke-opacity="0.3"/><text x="75" y="16" fill="#a7f3d0">FASTAPI</text>
+    <rect x="136" width="80" height="24" rx="7" fill="#34d399" fill-opacity="0.1" stroke="#34d399" stroke-opacity="0.3"/><text x="145" y="16" fill="#a7f3d0">POSTGRESQL</text>
+    <rect x="224" width="44" height="24" rx="7" fill="#34d399" fill-opacity="0.1" stroke="#34d399" stroke-opacity="0.3"/><text x="234" y="16" fill="#a7f3d0">SCIPY</text>
+  </g>
+  <text x="28" y="214" fill="#f0edf8" font-family="Arial, sans-serif" font-size="10" font-weight="700" letter-spacing="1.5">EXPLORE PROJECT  ↗</text>
+  <g transform="translate(390 47)">
+    <circle cx="80" cy="35" r="18" fill="#fbbf24" fill-opacity="0.18" stroke="#fbbf24" stroke-opacity="0.7"/>
+    <g stroke="#fbbf24" stroke-opacity="0.45"><path d="M80 7 V0"/><path d="M80 70 V63"/><path d="M52 35 H45"/><path d="M115 35 H108"/><path d="M60 15 L54 9"/><path d="M100 55 L106 61"/><path d="M100 15 L106 9"/></g>
+    <g transform="translate(3 78)"><rect x="0" y="42" width="17" height="25" rx="3" fill="#34d399" fill-opacity="0.35"/><rect x="25" y="23" width="17" height="44" rx="3" fill="#34d399" fill-opacity="0.48"/><rect x="50" y="8" width="17" height="59" rx="3" fill="#fbbf24" fill-opacity="0.65"/><rect x="75" y="16" width="17" height="51" rx="3" fill="#fbbf24" fill-opacity="0.48"/><rect x="100" y="33" width="17" height="34" rx="3" fill="#34d399" fill-opacity="0.4"/><rect x="125" y="49" width="17" height="18" rx="3" fill="#34d399" fill-opacity="0.28"/><path d="M0 50 C22 44 35 28 58 20 C80 13 99 27 142 47" fill="none" stroke="url(#accent)" stroke-width="2"/></g>
+    <text x="74" y="164" text-anchor="middle" fill="#746e82" font-family="Arial, sans-serif" font-size="9" letter-spacing="1.4">OPTIMAL LOAD WINDOW</text>
+  </g>
+</svg>

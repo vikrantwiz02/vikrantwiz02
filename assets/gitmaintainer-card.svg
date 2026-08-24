@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="580" height="240" viewBox="0 0 580 240" role="img" aria-labelledby="title desc">
+  <title id="title">GitMaintainer</title>
+  <desc id="desc">A priority inbox for GitHub maintainers built with TypeScript and React.</desc>
+  <defs>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#ec4899"/><stop offset="1" stop-color="#fbbf24"/></linearGradient>
+    <radialGradient id="glow" cx="0" cy="0" r="1" gradientTransform="translate(480 105) rotate(135) scale(190)"><stop stop-color="#db2777" stop-opacity="0.2"/><stop offset="1" stop-color="#db2777" stop-opacity="0"/></radialGradient>
+  </defs>
+  <rect x="1" y="1" width="578" height="238" rx="20" fill="#0b0911" stroke="#ffffff" stroke-opacity="0.12"/>
+  <rect x="1" y="1" width="578" height="4" rx="2" fill="url(#accent)"/>
+  <rect x="1" y="1" width="578" height="238" rx="20" fill="url(#glow)"/>
+  <text x="28" y="39" fill="#f9a8d4" font-family="Arial, sans-serif" font-size="10" font-weight="700" letter-spacing="1.7">04 / DEVELOPER EXPERIENCE</text>
+  <text x="28" y="82" fill="#ffffff" font-family="Arial, sans-serif" font-size="29" font-weight="900" letter-spacing="1">GITMAINTAINER</text>
+  <text x="28" y="108" fill="#bbb5c8" font-family="Arial, sans-serif" font-size="14">A priority inbox for maintainers.</text>
+  <text x="28" y="130" fill="#817b8f" font-family="Arial, sans-serif" font-size="12">Ranks every issue and pull request needing attention</text>
+  <g transform="translate(28 156)" font-family="Arial, sans-serif" font-size="10" font-weight="700">
+    <rect width="79" height="24" rx="7" fill="#ec4899" fill-opacity="0.1" stroke="#ec4899" stroke-opacity="0.3"/><text x="9" y="16" fill="#fbcfe8">TYPESCRIPT</text>
+    <rect x="87" width="48" height="24" rx="7" fill="#ec4899" fill-opacity="0.1" stroke="#ec4899" stroke-opacity="0.3"/><text x="97" y="16" fill="#fbcfe8">REACT</text>
+    <rect x="143" width="44" height="24" rx="7" fill="#ec4899" fill-opacity="0.1" stroke="#ec4899" stroke-opacity="0.3"/><text x="153" y="16" fill="#fbcfe8">PNPM</text>
+  </g>
+  <text x="28" y="214" fill="#f0edf8" font-family="Arial, sans-serif" font-size="10" font-weight="700" letter-spacing="1.5">EXPLORE PROJECT  ↗</text>
+  <g transform="translate(392 47)">
+    <rect width="158" height="145" rx="14" fill="#ffffff" fill-opacity="0.025" stroke="#ffffff" stroke-opacity="0.1"/>
+    <circle cx="18" cy="18" r="4" fill="#ec4899"/><rect x="30" y="14" width="61" height="8" rx="4" fill="#ffffff" fill-opacity="0.16"/><rect x="119" y="12" width="23" height="12" rx="6" fill="#ec4899" fill-opacity="0.2"/>
+    <g transform="translate(14 39)"><rect width="130" height="25" rx="7" fill="#ec4899" fill-opacity="0.09" stroke="#ec4899" stroke-opacity="0.16"/><circle cx="13" cy="12.5" r="4" fill="#ec4899"/><rect x="24" y="8" width="65" height="5" rx="2.5" fill="#ffffff" fill-opacity="0.4"/><rect x="24" y="16" width="43" height="3" rx="1.5" fill="#ffffff" fill-opacity="0.12"/></g>
+    <g transform="translate(14 72)"><rect width="130" height="25" rx="7" fill="#fbbf24" fill-opacity="0.06" stroke="#fbbf24" stroke-opacity="0.12"/><circle cx="13" cy="12.5" r="4" fill="#fbbf24"/><rect x="24" y="8" width="76" height="5" rx="2.5" fill="#ffffff" fill-opacity="0.32"/><rect x="24" y="16" width="52" height="3" rx="1.5" fill="#ffffff" fill-opacity="0.1"/></g>
+    <g transform="translate(14 105)"><rect width="130" height="25" rx="7" fill="#ffffff" fill-opacity="0.025" stroke="#ffffff" stroke-opacity="0.07"/><circle cx="13" cy="12.5" r="4" fill="#a78bfa"/><rect x="24" y="8" width="58" height="5" rx="2.5" fill="#ffffff" fill-opacity="0.24"/><rect x="24" y="16" width="37" height="3" rx="1.5" fill="#ffffff" fill-opacity="0.08"/></g>
+  </g>
+</svg>

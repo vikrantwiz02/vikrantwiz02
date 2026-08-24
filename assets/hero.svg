@@ -1,0 +1,80 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="400" viewBox="0 0 1200 400" role="img" aria-labelledby="title desc">
+  <title id="title">Vikrant Kumar — Full-Stack Software Engineer</title>
+  <desc id="desc">Profile banner highlighting production platforms, digital health, and real-time systems.</desc>
+  <defs>
+    <linearGradient id="edge" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#a78bfa"/>
+      <stop offset="0.52" stop-color="#ec4899"/>
+      <stop offset="1" stop-color="#fbbf24"/>
+    </linearGradient>
+    <radialGradient id="violetGlow" cx="0" cy="0" r="1" gradientTransform="translate(880 180) rotate(130) scale(360 300)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#7c3aed" stop-opacity="0.32"/>
+      <stop offset="1" stop-color="#7c3aed" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="goldGlow" cx="0" cy="0" r="1" gradientTransform="translate(1120 350) rotate(-135) scale(250 180)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#f59e0b" stop-opacity="0.18"/>
+      <stop offset="1" stop-color="#f59e0b" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M 32 0 L 0 0 0 32" fill="none" stroke="#ffffff" stroke-opacity="0.035"/>
+    </pattern>
+  </defs>
+
+  <g>
+    <rect width="1200" height="400" fill="#08070d"/>
+    <rect width="1200" height="400" fill="url(#grid)"/>
+    <rect width="1200" height="400" fill="url(#violetGlow)"/>
+    <rect width="1200" height="400" fill="url(#goldGlow)"/>
+
+    <path d="M0 399 C190 300 330 466 510 350 C710 218 780 432 990 286 C1080 224 1140 220 1200 244" fill="none" stroke="url(#edge)" stroke-opacity="0.18" stroke-width="2"/>
+    <path d="M0 370 C170 282 342 432 506 329 C704 205 810 392 1004 260 C1090 202 1148 202 1200 216" fill="none" stroke="url(#edge)" stroke-opacity="0.08"/>
+
+    <g transform="translate(64 49)">
+      <rect width="323" height="31" rx="15.5" fill="#ffffff" fill-opacity="0.055" stroke="#ffffff" stroke-opacity="0.12"/>
+      <circle cx="18" cy="15.5" r="5" fill="#34d399"/>
+      <circle cx="18" cy="15.5" r="9" fill="#34d399" fill-opacity="0.16"/>
+      <text x="34" y="20" fill="#d8d5e5" font-family="Arial, sans-serif" font-size="12" font-weight="700" letter-spacing="1.25">OPEN TO SOFTWARE ENGINEERING ROLES</text>
+    </g>
+
+    <text x="62" y="151" fill="#ffffff" font-family="Arial, sans-serif" font-size="70" font-weight="900" letter-spacing="4">VIKRANT</text>
+    <text x="62" y="218" fill="none" stroke="url(#edge)" stroke-width="1.5" font-family="Arial, sans-serif" font-size="70" font-weight="900" letter-spacing="4">KUMAR.</text>
+
+    <text x="66" y="261" fill="#f0edf8" font-family="Arial, sans-serif" font-size="18" font-weight="700" letter-spacing="2.2">FULL-STACK SOFTWARE ENGINEER</text>
+    <text x="66" y="292" fill="#a9a4b8" font-family="Arial, sans-serif" font-size="15">Production platforms · Digital health · Real-time systems</text>
+
+    <g transform="translate(64 326)" font-family="Arial, sans-serif">
+      <rect width="181" height="38" rx="10" fill="#ffffff" fill-opacity="0.055" stroke="#a78bfa" stroke-opacity="0.34"/>
+      <text x="16" y="17" fill="#a9a4b8" font-size="9" font-weight="700" letter-spacing="1">FUSION ERP</text>
+      <text x="16" y="31" fill="#ffffff" font-size="13" font-weight="700">200+ merged PRs</text>
+
+      <rect x="194" width="181" height="38" rx="10" fill="#ffffff" fill-opacity="0.055" stroke="#ec4899" stroke-opacity="0.34"/>
+      <text x="210" y="17" fill="#a9a4b8" font-size="9" font-weight="700" letter-spacing="1">MEDIC CHT</text>
+      <text x="210" y="31" fill="#ffffff" font-size="13" font-weight="700">15 merged PRs</text>
+
+      <rect x="388" width="181" height="38" rx="10" fill="#ffffff" fill-opacity="0.055" stroke="#fbbf24" stroke-opacity="0.34"/>
+      <text x="404" y="17" fill="#a9a4b8" font-size="9" font-weight="700" letter-spacing="1">FLAGSHIP WORK</text>
+      <text x="404" y="31" fill="#ffffff" font-size="13" font-weight="700">3 live systems</text>
+    </g>
+
+    <circle cx="983" cy="200" r="119" fill="#ffffff" fill-opacity="0.018" stroke="#ffffff" stroke-opacity="0.07"/>
+    <circle cx="983" cy="200" r="88" fill="#ffffff" fill-opacity="0.02" stroke="#a78bfa" stroke-opacity="0.2" stroke-dasharray="3 8"/>
+    <circle cx="983" cy="200" r="68" fill="none" stroke="#ec4899" stroke-opacity="0.13" stroke-width="10"/>
+    <circle cx="983" cy="200" r="57" fill="#0d0b15" stroke="url(#edge)" stroke-width="2"/>
+    <text x="983" y="208" text-anchor="middle" fill="#ffffff" font-family="Arial, sans-serif" font-size="28" font-weight="900" letter-spacing="1">VK.</text>
+
+    <path d="M983 88 L983 142 M1078 145 L1033 171 M1067 268 L1029 237 M897 271 L938 235 M883 148 L933 174" fill="none" stroke="url(#edge)" stroke-opacity="0.34"/>
+    <circle cx="983" cy="81" r="7" fill="#0d0b15" stroke="#a78bfa" stroke-width="1.5"/>
+    <circle cx="1085" cy="141" r="7" fill="#0d0b15" stroke="#ec4899" stroke-width="1.5"/>
+    <circle cx="1073" cy="273" r="7" fill="#0d0b15" stroke="#fbbf24" stroke-width="1.5"/>
+    <circle cx="891" cy="276" r="7" fill="#0d0b15" stroke="#ec4899" stroke-width="1.5"/>
+    <circle cx="876" cy="145" r="7" fill="#0d0b15" stroke="#a78bfa" stroke-width="1.5"/>
+
+    <text x="983" y="62" text-anchor="middle" fill="#b8b2c8" font-family="Arial, sans-serif" font-size="10" font-weight="700" letter-spacing="1.2">PRODUCT</text>
+    <text x="1108" y="145" fill="#b8b2c8" font-family="Arial, sans-serif" font-size="10" font-weight="700" letter-spacing="1.2">BACKEND</text>
+    <text x="1090" y="294" fill="#b8b2c8" font-family="Arial, sans-serif" font-size="10" font-weight="700" letter-spacing="1.2">SYSTEMS</text>
+    <text x="820" y="296" fill="#b8b2c8" font-family="Arial, sans-serif" font-size="10" font-weight="700" letter-spacing="1.2">QUALITY</text>
+    <text x="816" y="149" fill="#b8b2c8" font-family="Arial, sans-serif" font-size="10" font-weight="700" letter-spacing="1.2">DATA</text>
+  </g>
+
+  <rect x="1" y="1" width="1198" height="398" rx="24" fill="none" stroke="url(#edge)" stroke-opacity="0.45" stroke-width="2"/>
+</svg>

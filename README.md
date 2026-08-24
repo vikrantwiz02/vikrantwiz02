@@ -1,62 +1,90 @@
-<div align="center">
+<p align="center">
+  <img src="./assets/hero.svg" width="100%" alt="Vikrant Kumar — Full-Stack Software Engineer" />
+</p>
 
-# Vikrant Kumar
+<p align="center">
+  <a href="https://www.vikrantkumar.site/"><img src="https://img.shields.io/badge/PORTFOLIO-08070D?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://linkedin.com/in/vikrantwiz02"><img src="https://img.shields.io/badge/LINKEDIN-08070D?style=for-the-badge&logo=linkedin&logoColor=A78BFA" alt="LinkedIn" /></a>
+  <a href="mailto:vikrantkrd@gmail.com"><img src="https://img.shields.io/badge/EMAIL-08070D?style=for-the-badge&logo=gmail&logoColor=EC4899" alt="Email" /></a>
+  <a href="https://github.com/vikrantwiz02?tab=repositories"><img src="https://img.shields.io/badge/REPOSITORIES-08070D?style=for-the-badge&logo=github&logoColor=FBBF24" alt="Repositories" /></a>
+</p>
 
-**Full-Stack Software Engineer · Backend & Real-Time Systems**
+<p align="center">
+  <strong>I turn complex workflows into software that people can rely on.</strong><br />
+  <sub>B.Tech CSE at IIITDM Jabalpur · C4GT'26 Contributor · Building from interface to infrastructure</sub>
+</p>
 
-Computer Science undergraduate at IIITDM Jabalpur. I build production web platforms, developer tools, and distributed applications.
+## Selected engineering work
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-vikrantkumar.site-111111?style=flat-square&logo=vercel&logoColor=white)](https://www.vikrantkumar.site/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-vikrantwiz02-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/vikrantwiz02)
-[![Email](https://img.shields.io/badge/Email-vikrantkrd%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:vikrantkrd@gmail.com)
+<p align="center">
+  <a href="https://github.com/vikrantwiz02/KansoState"><img src="./assets/kansostate-card.svg" width="49%" alt="KansoState — real-time meeting intelligence" /></a>
+  <a href="https://github.com/vikrantwiz02/GridShift"><img src="./assets/gridshift-card.svg" width="49%" alt="GridShift — renewable-aware workload scheduling" /></a>
+</p>
 
-</div>
+<p align="center">
+  <a href="https://github.com/vikrantwiz02/mcp-warden"><img src="./assets/mcp-warden-card.svg" width="49%" alt="mcp-warden — policy-based security middleware" /></a>
+  <a href="https://github.com/vikrantwiz02/GitMaintainer"><img src="./assets/gitmaintainer-card.svg" width="49%" alt="GitMaintainer — priority inbox for maintainers" /></a>
+</p>
 
-## What I'm working on
+<p align="center">
+  <sub>
+    Live: <a href="https://kansostate.vikrantkumar.site">KansoState</a> ·
+    <a href="https://gridshift.vikrantkumar.site">GridShift</a> ·
+    <a href="https://git-maintainer-web.vercel.app">GitMaintainer</a> ·
+    Package: <a href="https://www.npmjs.com/package/mcp-warden">mcp-warden</a>
+  </sub>
+</p>
 
-- Shipping full-stack features for [Fusion ERP](https://github.com/FusionIIIT), IIIT Jabalpur's institutional platform.
-- Contributing to [Medic's Community Health Toolkit](https://github.com/medic/cht-core) as a Code for GovTech contributor.
-- Exploring reliable backends, real-time collaboration, application security, and developer tooling.
-
-## Engineering experience
+## Production impact
 
 ### Fusion ERP · Full-Stack Developer
 
-`React` `Redux Toolkit` `Django` `Python` `PostgreSQL`
+> **200+ merged pull requests across four repositories.** I work across React interfaces, Django services, relational models, permissions, tests, and CI for IIIT Jabalpur's institutional platform.
 
-- Authored **200+ merged pull requests across four repositories**, working through team review on a large, existing codebase.
-- Delivered admissions, course registration, grading, placement, and administrative workflows across frontend interfaces, APIs, models, migrations, and permissions.
-- Owned cross-layer fixes involving authentication, role-based access control, data normalization, accessibility, tests, and CI.
+Recent work includes:
 
-[View merged Fusion contributions →](https://github.com/pulls?q=is%3Apr+is%3Amerged+author%3Avikrantwiz02+org%3AFusionIIIT)
+- Built a resumable course-allocation workflow across [backend #1967](https://github.com/FusionIIIT/Fusion/pull/1967) and [client #299](https://github.com/FusionIIIT/Fusion-client/pull/299).
+- Generalized academic sections across the data model and interface in [backend #1965](https://github.com/FusionIIIT/Fusion/pull/1965) and [client #297](https://github.com/FusionIIIT/Fusion-client/pull/297).
+- Reworked student onboarding and corrected admission-data faults in [backend #1959](https://github.com/FusionIIIT/Fusion/pull/1959) and [client #294](https://github.com/FusionIIIT/Fusion-client/pull/294).
+- Introduced manifest-driven role policy and grant isolation in [system administrator #90](https://github.com/FusionIIIT/Fusion_System_Administrator/pull/90).
+
+**[Explore my merged Fusion work →](https://github.com/pulls?q=is%3Apr+is%3Amerged+author%3Avikrantwiz02+org%3AFusionIIIT)**
 
 ### Medic Community Health Toolkit · C4GT Contributor
 
-`JavaScript` `Node.js` `CouchDB` `Docker` `Helm` `GitHub Actions`
+> **15 merged pull requests to an external production codebase.** My contributions span product features, permissions, deployment reliability, end-to-end testing, and CI security.
 
-- Delivered **15 merged pull requests** to a production digital-health platform through maintainer review and automated testing.
-- Added a bulk-operation framework and contact-hierarchy deletion ([#11236](https://github.com/medic/cht-core/pull/11236)), external dataset selection in forms ([#10971](https://github.com/medic/cht-core/pull/10971)), and UI extension points ([#10921](https://github.com/medic/cht-core/pull/10921), [#10785](https://github.com/medic/cht-core/pull/10785)).
-- Strengthened permissions and CI security ([#10795](https://github.com/medic/cht-core/pull/10795), [#10837](https://github.com/medic/cht-core/pull/10837), [#10857](https://github.com/medic/cht-core/pull/10857)) and fixed Docker/Helm behavior ([#10758](https://github.com/medic/cht-core/pull/10758), [#10826](https://github.com/medic/cht-core/pull/10826)).
+- Added bulk operations and recursive contact-hierarchy deletion in [#11236](https://github.com/medic/cht-core/pull/11236).
+- Enabled external dataset selection in forms in [#10971](https://github.com/medic/cht-core/pull/10971).
+- Extended the UI-extension surface across navigation in [#10921](https://github.com/medic/cht-core/pull/10921) and [#10785](https://github.com/medic/cht-core/pull/10785).
+- Strengthened permissions and CI security in [#10795](https://github.com/medic/cht-core/pull/10795), [#10837](https://github.com/medic/cht-core/pull/10837), and [#10857](https://github.com/medic/cht-core/pull/10857).
 
-[View all merged CHT contributions →](https://github.com/medic/cht-core/pulls?q=is%3Apr+is%3Amerged+author%3Avikrantwiz02)
+**[Explore all merged CHT contributions →](https://github.com/medic/cht-core/pulls?q=is%3Apr+is%3Amerged+author%3Avikrantwiz02)**
 
-## Selected projects
+## Full-stack, for real
 
-| Project | What it does | Stack |
-|---|---|---|
-| **[KansoState](https://github.com/vikrantwiz02/KansoState)** · [Live](https://kansostate.vikrantkumar.site) | Real-time meeting intelligence with group video, transcription, semantic consensus scoring, speaker-drift detection, and live intent graphs. | `Go` `Next.js` `FastAPI` `WebRTC` `WebSockets` `SSE` |
-| **[GridShift](https://github.com/vikrantwiz02/GridShift)** · [Live](https://gridshift.vikrantkumar.site) | Renewable-aware workload scheduler using weather forecasts and linear programming, with tamper-evident records for every scheduling decision. | `Python` `FastAPI` `PostgreSQL` `React` `SciPy` |
-| **[mcp-warden](https://github.com/vikrantwiz02/mcp-warden)** · [npm](https://www.npmjs.com/package/mcp-warden) | Zero-runtime-dependency TypeScript middleware for tool authorization, rate limits, PII redaction, approval gates, and audit events. | `TypeScript` `Node.js` `Vitest` |
-| **[GitMaintainer](https://github.com/vikrantwiz02/GitMaintainer)** · [Live](https://git-maintainer-web.vercel.app) | A priority inbox that ranks the GitHub issues and pull requests needing a maintainer's attention. | `TypeScript` `React` `pnpm` |
+I am most useful when a feature crosses boundaries—when the interface, API contract, data model, permissions, deployment, and tests all need to move together.
 
-## Tools I use
+| Product engineering | Services | Data & real time | Delivery & quality |
+|---|---|---|---|
+| React, Next.js, Redux Toolkit, Tailwind CSS | Django, FastAPI, Gin, Node.js | PostgreSQL, Firestore, WebRTC, WebSockets, SSE | Docker, Terraform, GCP, GitHub Actions |
+| Accessible interfaces, complex workflows, state management | REST APIs, authentication, authorization, background processing | Schema design, event pipelines, synchronization, optimization | pytest, Vitest, Playwright, k6, CI security |
 
-- **Languages:** TypeScript, JavaScript, Python, Go, SQL
-- **Frontend:** React, Next.js, Redux Toolkit, Tailwind CSS
-- **Backend & data:** Django, FastAPI, Gin, PostgreSQL, Firestore, REST APIs
-- **Systems & cloud:** WebRTC, WebSockets, SSE, Docker, Terraform, GCP, GitHub Actions
-- **Testing:** pytest, Vitest, Playwright, k6
+## Engineering activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vikrantwiz02&bg_color=08070d&color=e7e5f4&line=a78bfa&point=fbbf24&area=true&hide_border=true" width="100%" alt="Vikrant Kumar's GitHub contribution activity" />
+</p>
 
 ---
 
-I'm open to software engineering internships and open-source collaboration. The easiest way to reach me is [email](mailto:vikrantkrd@gmail.com) or [LinkedIn](https://linkedin.com/in/vikrantwiz02).
+<div align="center">
+
+### Let's build something worth shipping.
+
+I'm open to software engineering internships, 2027 graduate opportunities, and serious open-source collaboration.
+
+[![Start a conversation](https://img.shields.io/badge/START_A_CONVERSATION-A78BFA?style=for-the-badge&logo=linkedin&logoColor=08070D)](https://linkedin.com/in/vikrantwiz02)
+[![Email me](https://img.shields.io/badge/EMAIL_ME-EC4899?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vikrantkrd@gmail.com)
+
+</div>

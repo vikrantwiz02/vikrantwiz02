@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="580" height="240" viewBox="0 0 580 240" role="img" aria-labelledby="title desc">
+  <title id="title">KansoState</title>
+  <desc id="desc">Real-time meeting intelligence built with Go, Next.js, FastAPI, and WebRTC.</desc>
+  <defs>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#a78bfa"/><stop offset="1" stop-color="#ec4899"/></linearGradient>
+    <radialGradient id="glow" cx="0" cy="0" r="1" gradientTransform="translate(475 100) rotate(135) scale(180)"><stop stop-color="#7c3aed" stop-opacity="0.28"/><stop offset="1" stop-color="#7c3aed" stop-opacity="0"/></radialGradient>
+  </defs>
+  <rect x="1" y="1" width="578" height="238" rx="20" fill="#0b0911" stroke="#ffffff" stroke-opacity="0.12"/>
+  <rect x="1" y="1" width="578" height="4" rx="2" fill="url(#accent)"/>
+  <rect x="1" y="1" width="578" height="238" rx="20" fill="url(#glow)"/>
+  <text x="28" y="39" fill="#a78bfa" font-family="Arial, sans-serif" font-size="10" font-weight="700" letter-spacing="1.7">01 / REAL-TIME SYSTEMS</text>
+  <text x="28" y="82" fill="#ffffff" font-family="Arial, sans-serif" font-size="29" font-weight="900" letter-spacing="1">KANSOSTATE</text>
+  <text x="28" y="108" fill="#bbb5c8" font-family="Arial, sans-serif" font-size="14">Consensus intelligence for live meetings.</text>
+  <text x="28" y="130" fill="#817b8f" font-family="Arial, sans-serif" font-size="12">Group video · transcription · speaker drift · intent graphs</text>
+  <g transform="translate(28 156)" font-family="Arial, sans-serif" font-size="10" font-weight="700">
+    <rect width="41" height="24" rx="7" fill="#a78bfa" fill-opacity="0.12" stroke="#a78bfa" stroke-opacity="0.3"/><text x="12" y="16" fill="#d8cfff">GO</text>
+    <rect x="49" width="62" height="24" rx="7" fill="#a78bfa" fill-opacity="0.12" stroke="#a78bfa" stroke-opacity="0.3"/><text x="59" y="16" fill="#d8cfff">NEXT.JS</text>
+    <rect x="119" width="61" height="24" rx="7" fill="#a78bfa" fill-opacity="0.12" stroke="#a78bfa" stroke-opacity="0.3"/><text x="129" y="16" fill="#d8cfff">WEBRTC</text>
+    <rect x="188" width="62" height="24" rx="7" fill="#a78bfa" fill-opacity="0.12" stroke="#a78bfa" stroke-opacity="0.3"/><text x="197" y="16" fill="#d8cfff">FASTAPI</text>
+  </g>
+  <text x="28" y="214" fill="#f0edf8" font-family="Arial, sans-serif" font-size="10" font-weight="700" letter-spacing="1.5">EXPLORE PROJECT  ↗</text>
+  <g transform="translate(385 48)">
+    <path d="M15 117 C42 47 80 156 113 71 C135 16 153 55 169 24" fill="none" stroke="url(#accent)" stroke-width="2"/>
+    <path d="M15 129 H170" stroke="#ffffff" stroke-opacity="0.08"/>
+    <g fill="#0b0911" stroke-width="2"><circle cx="15" cy="117" r="6" stroke="#a78bfa"/><circle cx="61" cy="93" r="6" stroke="#c06ee1"/><circle cx="113" cy="71" r="6" stroke="#df52b2"/><circle cx="169" cy="24" r="6" stroke="#ec4899"/></g>
+    <g fill="#ffffff"><circle cx="15" cy="117" r="2"/><circle cx="61" cy="93" r="2"/><circle cx="113" cy="71" r="2"/><circle cx="169" cy="24" r="2"/></g>
+    <text x="91" y="151" text-anchor="middle" fill="#746e82" font-family="Arial, sans-serif" font-size="9" letter-spacing="1.5">CONSENSUS CURVE</text>
+  </g>
+</svg>

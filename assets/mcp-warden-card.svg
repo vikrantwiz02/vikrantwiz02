@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="580" height="240" viewBox="0 0 580 240" role="img" aria-labelledby="title desc">
+  <title id="title">mcp-warden</title>
+  <desc id="desc">Policy-based TypeScript security middleware with zero runtime dependencies.</desc>
+  <defs>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#22d3ee"/><stop offset="1" stop-color="#a78bfa"/></linearGradient>
+    <radialGradient id="glow" cx="0" cy="0" r="1" gradientTransform="translate(480 105) rotate(135) scale(190)"><stop stop-color="#0891b2" stop-opacity="0.22"/><stop offset="1" stop-color="#0891b2" stop-opacity="0"/></radialGradient>
+  </defs>
+  <rect x="1" y="1" width="578" height="238" rx="20" fill="#0b0911" stroke="#ffffff" stroke-opacity="0.12"/>
+  <rect x="1" y="1" width="578" height="4" rx="2" fill="url(#accent)"/>
+  <rect x="1" y="1" width="578" height="238" rx="20" fill="url(#glow)"/>
+  <text x="28" y="39" fill="#67e8f9" font-family="Arial, sans-serif" font-size="10" font-weight="700" letter-spacing="1.7">03 / SECURITY TOOLING</text>
+  <text x="28" y="82" fill="#ffffff" font-family="Arial, sans-serif" font-size="29" font-weight="900" letter-spacing="1">MCP-WARDEN</text>
+  <text x="28" y="108" fill="#bbb5c8" font-family="Arial, sans-serif" font-size="14">Policy enforcement inside TypeScript servers.</text>
+  <text x="28" y="130" fill="#817b8f" font-family="Arial, sans-serif" font-size="12">Authorization · PII redaction · rate limits · approval gates</text>
+  <g transform="translate(28 156)" font-family="Arial, sans-serif" font-size="10" font-weight="700">
+    <rect width="79" height="24" rx="7" fill="#22d3ee" fill-opacity="0.1" stroke="#22d3ee" stroke-opacity="0.3"/><text x="9" y="16" fill="#a5f3fc">TYPESCRIPT</text>
+    <rect x="87" width="61" height="24" rx="7" fill="#22d3ee" fill-opacity="0.1" stroke="#22d3ee" stroke-opacity="0.3"/><text x="97" y="16" fill="#a5f3fc">NODE.JS</text>
+    <rect x="156" width="116" height="24" rx="7" fill="#22d3ee" fill-opacity="0.1" stroke="#22d3ee" stroke-opacity="0.3"/><text x="167" y="16" fill="#a5f3fc">ZERO DEPENDENCIES</text>
+  </g>
+  <text x="28" y="214" fill="#f0edf8" font-family="Arial, sans-serif" font-size="10" font-weight="700" letter-spacing="1.5">EXPLORE PROJECT  ↗</text>
+  <g transform="translate(413 42)">
+    <path d="M70 3 L126 24 V72 C126 112 102 139 70 157 C38 139 14 112 14 72 V24 Z" fill="#0b0911" stroke="url(#accent)" stroke-width="2"/>
+    <path d="M70 25 L106 38 V72 C106 97 92 116 70 130 C48 116 34 97 34 72 V38 Z" fill="#22d3ee" fill-opacity="0.06" stroke="#22d3ee" stroke-opacity="0.24"/>
+    <path d="M51 76 L64 89 L91 58" fill="none" stroke="url(#accent)" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="70" cy="76" r="46" fill="none" stroke="#ffffff" stroke-opacity="0.06" stroke-dasharray="2 7"/>
+  </g>
+</svg>
