@@ -11,7 +11,7 @@
 
 <p align="center">
   <strong>I turn complex workflows into software that people can rely on.</strong><br />
-  <sub>B.Tech CSE at IIITDM Jabalpur · C4GT'26 Contributor · Building from interface to infrastructure</sub>
+  <sub>B.Tech CSE at IIITDM Jabalpur · 2023–2027 · C4GT'26 Contributor · Building from interface to infrastructure</sub>
 </p>
 
 ## Selected engineering work

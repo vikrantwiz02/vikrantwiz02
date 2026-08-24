@@ -11,7 +11,7 @@
   <text x="28" y="39" fill="#a78bfa" font-family="Arial, sans-serif" font-size="10" font-weight="700" letter-spacing="1.7">01 / REAL-TIME SYSTEMS</text>
   <text x="28" y="82" fill="#ffffff" font-family="Arial, sans-serif" font-size="29" font-weight="900" letter-spacing="1">KANSOSTATE</text>
   <text x="28" y="108" fill="#bbb5c8" font-family="Arial, sans-serif" font-size="14">Consensus intelligence for live meetings.</text>
-  <text x="28" y="130" fill="#817b8f" font-family="Arial, sans-serif" font-size="12">Group video · transcription · speaker drift · intent graphs</text>
+  <text x="28" y="130" fill="#817b8f" font-family="Arial, sans-serif" font-size="12">3 services · 100-speaker load scenarios · &lt;2s SLO</text>
   <g transform="translate(28 156)" font-family="Arial, sans-serif" font-size="10" font-weight="700">
     <rect width="41" height="24" rx="7" fill="#a78bfa" fill-opacity="0.12" stroke="#a78bfa" stroke-opacity="0.3"/><text x="12" y="16" fill="#d8cfff">GO</text>
     <rect x="49" width="62" height="24" rx="7" fill="#a78bfa" fill-opacity="0.12" stroke="#a78bfa" stroke-opacity="0.3"/><text x="59" y="16" fill="#d8cfff">NEXT.JS</text>

@@ -11,7 +11,7 @@
   <text x="28" y="39" fill="#6ee7b7" font-family="Arial, sans-serif" font-size="10" font-weight="700" letter-spacing="1.7">02 / OPTIMIZATION</text>
   <text x="28" y="82" fill="#ffffff" font-family="Arial, sans-serif" font-size="29" font-weight="900" letter-spacing="1">GRIDSHIFT</text>
   <text x="28" y="108" fill="#bbb5c8" font-family="Arial, sans-serif" font-size="14">Renewable-aware compute scheduling.</text>
-  <text x="28" y="130" fill="#817b8f" font-family="Arial, sans-serif" font-size="12">Forecasts · linear programming · tamper-evident records</text>
+  <text x="28" y="130" fill="#817b8f" font-family="Arial, sans-serif" font-size="12">43.7% simulated cost reduction · 67.3% renewable share</text>
   <g transform="translate(28 156)" font-family="Arial, sans-serif" font-size="10" font-weight="700">
     <rect width="58" height="24" rx="7" fill="#34d399" fill-opacity="0.1" stroke="#34d399" stroke-opacity="0.3"/><text x="9" y="16" fill="#a7f3d0">PYTHON</text>
     <rect x="66" width="62" height="24" rx="7" fill="#34d399" fill-opacity="0.1" stroke="#34d399" stroke-opacity="0.3"/><text x="75" y="16" fill="#a7f3d0">FASTAPI</text>

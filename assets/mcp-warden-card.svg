@@ -11,7 +11,7 @@
   <text x="28" y="39" fill="#67e8f9" font-family="Arial, sans-serif" font-size="10" font-weight="700" letter-spacing="1.7">03 / SECURITY TOOLING</text>
   <text x="28" y="82" fill="#ffffff" font-family="Arial, sans-serif" font-size="29" font-weight="900" letter-spacing="1">MCP-WARDEN</text>
   <text x="28" y="108" fill="#bbb5c8" font-family="Arial, sans-serif" font-size="14">Policy enforcement inside TypeScript servers.</text>
-  <text x="28" y="130" fill="#817b8f" font-family="Arial, sans-serif" font-size="12">Authorization · PII redaction · rate limits · approval gates</text>
+  <text x="28" y="130" fill="#817b8f" font-family="Arial, sans-serif" font-size="12">Zero dependencies · O(1) rate limits · typed policy engine</text>
   <g transform="translate(28 156)" font-family="Arial, sans-serif" font-size="10" font-weight="700">
     <rect width="79" height="24" rx="7" fill="#22d3ee" fill-opacity="0.1" stroke="#22d3ee" stroke-opacity="0.3"/><text x="9" y="16" fill="#a5f3fc">TYPESCRIPT</text>
     <rect x="87" width="61" height="24" rx="7" fill="#22d3ee" fill-opacity="0.1" stroke="#22d3ee" stroke-opacity="0.3"/><text x="97" y="16" fill="#a5f3fc">NODE.JS</text>
